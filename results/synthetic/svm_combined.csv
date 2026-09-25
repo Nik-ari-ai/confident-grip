@@ -1,0 +1,2961 @@
+trial,time_ms,label,prediction,command,inhibit,reason
+synthetic_r5_g1,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g1,60.0,0,0,0,False,принято
+synthetic_r5_g1,70.0,0,0,0,False,принято
+synthetic_r5_g1,80.0,0,0,0,False,принято
+synthetic_r5_g1,90.0,0,0,0,False,принято
+synthetic_r5_g1,100.0,0,0,0,False,принято
+synthetic_r5_g1,110.0,0,0,0,False,принято
+synthetic_r5_g1,120.0,0,0,0,False,принято
+synthetic_r5_g1,130.0,0,0,0,False,принято
+synthetic_r5_g1,140.0,0,0,0,False,принято
+synthetic_r5_g1,150.0,0,0,0,False,принято
+synthetic_r5_g1,160.0,0,0,0,False,принято
+synthetic_r5_g1,170.0,0,0,0,False,принято
+synthetic_r5_g1,180.0,0,0,0,False,принято
+synthetic_r5_g1,190.0,0,0,0,False,принято
+synthetic_r5_g1,200.0,0,0,0,False,принято
+synthetic_r5_g1,210.0,0,0,0,False,принято
+synthetic_r5_g1,220.0,0,0,0,False,принято
+synthetic_r5_g1,230.0,0,0,0,False,принято
+synthetic_r5_g1,240.0,0,0,0,False,принято
+synthetic_r5_g1,250.0,0,0,0,False,принято
+synthetic_r5_g1,260.0,0,0,0,False,принято
+synthetic_r5_g1,270.0,0,0,0,False,принято
+synthetic_r5_g1,280.0,0,0,0,False,принято
+synthetic_r5_g1,290.0,0,0,0,False,принято
+synthetic_r5_g1,300.0,0,0,0,False,принято
+synthetic_r5_g1,310.0,0,0,0,False,принято
+synthetic_r5_g1,320.0,0,0,0,False,принято
+synthetic_r5_g1,330.0,0,0,0,False,принято
+synthetic_r5_g1,340.0,0,0,0,False,принято
+synthetic_r5_g1,350.0,0,0,0,False,принято
+synthetic_r5_g1,360.0,0,0,0,False,принято
+synthetic_r5_g1,370.0,0,0,0,False,принято
+synthetic_r5_g1,380.0,0,0,0,False,принято
+synthetic_r5_g1,390.0,0,0,0,False,принято
+synthetic_r5_g1,400.0,0,0,0,False,принято
+synthetic_r5_g1,410.0,0,0,0,False,принято
+synthetic_r5_g1,420.0,0,0,0,False,принято
+synthetic_r5_g1,430.0,0,0,0,False,принято
+synthetic_r5_g1,440.0,0,0,0,False,принято
+synthetic_r5_g1,450.0,0,0,0,False,принято
+synthetic_r5_g1,460.0,0,0,0,False,принято
+synthetic_r5_g1,470.0,0,0,0,False,принято
+synthetic_r5_g1,480.0,0,0,0,False,принято
+synthetic_r5_g1,490.0,0,0,0,False,принято
+synthetic_r5_g1,500.0,0,0,0,False,принято
+synthetic_r5_g1,510.0,1,0,0,False,принято
+synthetic_r5_g1,520.0,1,0,0,False,принято
+synthetic_r5_g1,530.0,1,1,-1,True,низкая уверенность
+synthetic_r5_g1,540.0,1,1,-1,True,ожидание подтверждения
+synthetic_r5_g1,550.0,1,1,1,False,принято
+synthetic_r5_g1,560.0,1,1,1,False,принято
+synthetic_r5_g1,570.0,1,1,1,False,принято
+synthetic_r5_g1,580.0,1,1,1,False,принято
+synthetic_r5_g1,590.0,1,1,1,False,принято
+synthetic_r5_g1,600.0,1,1,1,False,принято
+synthetic_r5_g1,610.0,1,1,1,False,принято
+synthetic_r5_g1,620.0,1,1,1,False,принято
+synthetic_r5_g1,630.0,1,1,1,False,принято
+synthetic_r5_g1,640.0,1,1,1,False,принято
+synthetic_r5_g1,650.0,1,1,1,False,принято
+synthetic_r5_g1,660.0,1,1,1,False,принято
+synthetic_r5_g1,670.0,1,1,1,False,принято
+synthetic_r5_g1,680.0,1,1,1,False,принято
+synthetic_r5_g1,690.0,1,1,1,False,принято
+synthetic_r5_g1,700.0,1,1,1,False,принято
+synthetic_r5_g1,710.0,1,1,1,False,принято
+synthetic_r5_g1,720.0,1,1,1,False,принято
+synthetic_r5_g1,730.0,1,1,1,False,принято
+synthetic_r5_g1,740.0,1,1,1,False,принято
+synthetic_r5_g1,750.0,1,1,1,False,принято
+synthetic_r5_g1,760.0,1,1,1,False,принято
+synthetic_r5_g1,770.0,1,1,1,False,принято
+synthetic_r5_g1,780.0,1,1,1,False,принято
+synthetic_r5_g1,790.0,1,1,1,False,принято
+synthetic_r5_g1,800.0,1,1,1,False,принято
+synthetic_r5_g1,810.0,1,1,1,False,принято
+synthetic_r5_g1,820.0,1,1,1,False,принято
+synthetic_r5_g1,830.0,1,1,1,False,принято
+synthetic_r5_g1,840.0,1,1,1,False,принято
+synthetic_r5_g1,850.0,1,1,1,False,принято
+synthetic_r5_g1,860.0,1,1,1,False,принято
+synthetic_r5_g1,870.0,1,1,1,False,принято
+synthetic_r5_g1,880.0,1,1,1,False,принято
+synthetic_r5_g1,890.0,1,1,1,False,принято
+synthetic_r5_g1,900.0,1,1,1,False,принято
+synthetic_r5_g1,910.0,1,1,1,False,принято
+synthetic_r5_g1,920.0,1,1,1,False,принято
+synthetic_r5_g1,930.0,1,1,1,False,принято
+synthetic_r5_g1,940.0,1,1,1,False,принято
+synthetic_r5_g1,950.0,1,1,1,False,принято
+synthetic_r5_g1,960.0,1,1,1,False,принято
+synthetic_r5_g1,970.0,1,1,1,False,принято
+synthetic_r5_g1,980.0,1,1,1,False,принято
+synthetic_r5_g1,990.0,1,1,1,False,принято
+synthetic_r5_g1,1000.0,1,1,1,False,принято
+synthetic_r5_g1,1010.0,1,1,1,False,принято
+synthetic_r5_g1,1020.0,1,1,1,False,принято
+synthetic_r5_g1,1030.0,1,1,1,False,принято
+synthetic_r5_g1,1040.0,1,1,1,False,принято
+synthetic_r5_g1,1050.0,1,1,1,False,принято
+synthetic_r5_g1,1060.0,1,1,1,False,принято
+synthetic_r5_g1,1070.0,1,1,1,False,принято
+synthetic_r5_g1,1080.0,1,1,1,False,принято
+synthetic_r5_g1,1090.0,1,1,1,False,принято
+synthetic_r5_g1,1100.0,1,1,1,False,принято
+synthetic_r5_g1,1110.0,1,1,1,False,принято
+synthetic_r5_g1,1120.0,1,1,1,False,принято
+synthetic_r5_g1,1130.0,1,1,1,False,принято
+synthetic_r5_g1,1140.0,1,1,1,False,принято
+synthetic_r5_g1,1150.0,1,1,1,False,принято
+synthetic_r5_g1,1160.0,1,1,1,False,принято
+synthetic_r5_g1,1170.0,1,1,1,False,принято
+synthetic_r5_g1,1180.0,1,1,1,False,принято
+synthetic_r5_g1,1190.0,1,1,1,False,принято
+synthetic_r5_g1,1200.0,1,1,1,False,принято
+synthetic_r5_g1,1210.0,1,1,1,False,принято
+synthetic_r5_g1,1220.0,1,1,1,False,принято
+synthetic_r5_g1,1230.0,1,1,1,False,принято
+synthetic_r5_g1,1240.0,1,1,1,False,принято
+synthetic_r5_g1,1250.0,1,1,1,False,принято
+synthetic_r5_g1,1260.0,1,1,1,False,принято
+synthetic_r5_g1,1270.0,1,1,1,False,принято
+synthetic_r5_g1,1280.0,1,1,1,False,принято
+synthetic_r5_g1,1290.0,1,1,1,False,принято
+synthetic_r5_g1,1300.0,1,1,1,False,принято
+synthetic_r5_g1,1310.0,1,1,1,False,принято
+synthetic_r5_g1,1320.0,1,1,1,False,принято
+synthetic_r5_g1,1330.0,1,1,1,False,принято
+synthetic_r5_g1,1340.0,1,1,1,False,принято
+synthetic_r5_g1,1350.0,1,1,1,False,принято
+synthetic_r5_g1,1360.0,1,1,1,False,принято
+synthetic_r5_g1,1370.0,1,1,1,False,принято
+synthetic_r5_g1,1380.0,1,1,1,False,принято
+synthetic_r5_g1,1390.0,1,1,1,False,принято
+synthetic_r5_g1,1400.0,1,1,1,False,принято
+synthetic_r5_g1,1410.0,1,1,1,False,принято
+synthetic_r5_g1,1420.0,1,1,1,False,принято
+synthetic_r5_g1,1430.0,1,1,1,False,принято
+synthetic_r5_g1,1440.0,1,1,1,False,принято
+synthetic_r5_g1,1450.0,1,1,1,False,принято
+synthetic_r5_g1,1460.0,1,1,1,False,принято
+synthetic_r5_g1,1470.0,1,1,1,False,принято
+synthetic_r5_g1,1480.0,1,1,1,False,принято
+synthetic_r5_g1,1490.0,1,1,1,False,принято
+synthetic_r5_g1,1500.0,1,1,1,False,принято
+synthetic_r5_g1,1510.0,1,1,1,False,принято
+synthetic_r5_g1,1520.0,1,1,1,False,принято
+synthetic_r5_g1,1530.0,1,1,1,False,принято
+synthetic_r5_g1,1540.0,1,1,1,False,принято
+synthetic_r5_g1,1550.0,1,1,1,False,принято
+synthetic_r5_g1,1560.0,1,1,1,False,принято
+synthetic_r5_g1,1570.0,1,1,1,False,принято
+synthetic_r5_g1,1580.0,1,1,1,False,принято
+synthetic_r5_g1,1590.0,1,1,1,False,принято
+synthetic_r5_g1,1600.0,1,1,1,False,принято
+synthetic_r5_g1,1610.0,1,1,1,False,принято
+synthetic_r5_g1,1620.0,1,1,1,False,принято
+synthetic_r5_g1,1630.0,1,1,1,False,принято
+synthetic_r5_g1,1640.0,1,1,1,False,принято
+synthetic_r5_g1,1650.0,1,1,1,False,принято
+synthetic_r5_g1,1660.0,1,1,1,False,принято
+synthetic_r5_g1,1670.0,1,1,1,False,принято
+synthetic_r5_g1,1680.0,1,1,1,False,принято
+synthetic_r5_g1,1690.0,1,1,1,False,принято
+synthetic_r5_g1,1700.0,1,1,1,False,принято
+synthetic_r5_g1,1710.0,1,1,1,False,принято
+synthetic_r5_g1,1720.0,1,1,1,False,принято
+synthetic_r5_g1,1730.0,1,1,1,False,принято
+synthetic_r5_g1,1740.0,1,1,1,False,принято
+synthetic_r5_g1,1750.0,1,1,1,False,принято
+synthetic_r5_g1,1760.0,1,1,1,False,принято
+synthetic_r5_g1,1770.0,1,1,1,False,принято
+synthetic_r5_g1,1780.0,1,1,1,False,принято
+synthetic_r5_g1,1790.0,1,1,1,False,принято
+synthetic_r5_g1,1800.0,1,1,1,False,принято
+synthetic_r5_g1,1810.0,1,1,1,False,принято
+synthetic_r5_g1,1820.0,1,1,1,False,принято
+synthetic_r5_g1,1830.0,1,1,1,False,принято
+synthetic_r5_g1,1840.0,1,1,1,False,принято
+synthetic_r5_g1,1850.0,1,1,1,False,принято
+synthetic_r5_g1,1860.0,1,1,1,False,принято
+synthetic_r5_g1,1870.0,1,1,1,False,принято
+synthetic_r5_g1,1880.0,1,1,1,False,принято
+synthetic_r5_g1,1890.0,1,1,1,False,принято
+synthetic_r5_g1,1900.0,1,1,1,False,принято
+synthetic_r5_g1,1910.0,1,1,1,False,принято
+synthetic_r5_g1,1920.0,1,1,1,False,принято
+synthetic_r5_g1,1930.0,1,1,1,False,принято
+synthetic_r5_g1,1940.0,1,1,1,False,принято
+synthetic_r5_g1,1950.0,1,1,1,False,принято
+synthetic_r5_g1,1960.0,1,1,1,False,принято
+synthetic_r5_g1,1970.0,1,1,1,False,принято
+synthetic_r5_g1,1980.0,1,1,1,False,принято
+synthetic_r5_g1,1990.0,1,1,1,False,принято
+synthetic_r5_g1,2000.0,1,1,1,False,принято
+synthetic_r5_g1,2010.0,1,1,1,False,принято
+synthetic_r5_g1,2020.0,1,1,1,False,принято
+synthetic_r5_g1,2030.0,1,1,1,False,принято
+synthetic_r5_g1,2040.0,1,1,1,False,принято
+synthetic_r5_g1,2050.0,1,1,1,False,принято
+synthetic_r5_g1,2060.0,1,1,1,False,принято
+synthetic_r5_g1,2070.0,1,1,1,False,принято
+synthetic_r5_g1,2080.0,1,1,1,False,принято
+synthetic_r5_g1,2090.0,1,1,1,False,принято
+synthetic_r5_g1,2100.0,1,1,1,False,принято
+synthetic_r5_g1,2110.0,1,1,1,False,принято
+synthetic_r5_g1,2120.0,1,1,1,False,принято
+synthetic_r5_g1,2130.0,1,1,1,False,принято
+synthetic_r5_g1,2140.0,1,1,1,False,принято
+synthetic_r5_g1,2150.0,1,1,1,False,принято
+synthetic_r5_g1,2160.0,1,1,1,False,принято
+synthetic_r5_g1,2170.0,1,1,1,False,принято
+synthetic_r5_g1,2180.0,1,1,1,False,принято
+synthetic_r5_g1,2190.0,1,1,1,False,принято
+synthetic_r5_g1,2200.0,1,1,1,False,принято
+synthetic_r5_g1,2210.0,1,1,1,False,принято
+synthetic_r5_g1,2220.0,1,1,1,False,принято
+synthetic_r5_g1,2230.0,1,1,1,False,принято
+synthetic_r5_g1,2240.0,1,1,1,False,принято
+synthetic_r5_g1,2250.0,1,1,1,False,принято
+synthetic_r5_g1,2260.0,1,1,1,False,принято
+synthetic_r5_g1,2270.0,1,1,1,False,принято
+synthetic_r5_g1,2280.0,1,1,1,False,принято
+synthetic_r5_g1,2290.0,1,1,1,False,принято
+synthetic_r5_g1,2300.0,1,1,1,False,принято
+synthetic_r5_g1,2310.0,1,1,1,False,принято
+synthetic_r5_g1,2320.0,1,1,1,False,принято
+synthetic_r5_g1,2330.0,1,1,1,False,принято
+synthetic_r5_g1,2340.0,1,1,1,False,принято
+synthetic_r5_g1,2350.0,1,1,1,False,принято
+synthetic_r5_g1,2360.0,1,1,1,False,принято
+synthetic_r5_g1,2370.0,1,1,1,False,принято
+synthetic_r5_g1,2380.0,1,1,1,False,принято
+synthetic_r5_g1,2390.0,1,1,1,False,принято
+synthetic_r5_g1,2400.0,1,1,1,False,принято
+synthetic_r5_g1,2410.0,1,1,1,False,принято
+synthetic_r5_g1,2420.0,1,1,1,False,принято
+synthetic_r5_g1,2430.0,1,1,1,False,принято
+synthetic_r5_g1,2440.0,1,1,1,False,принято
+synthetic_r5_g1,2450.0,1,1,1,False,принято
+synthetic_r5_g1,2460.0,1,1,1,False,принято
+synthetic_r5_g1,2470.0,1,1,1,False,принято
+synthetic_r5_g1,2480.0,1,1,1,False,принято
+synthetic_r5_g1,2490.0,1,1,1,False,принято
+synthetic_r5_g1,2500.0,1,1,1,False,принято
+synthetic_r5_g1,2510.0,0,1,1,False,принято
+synthetic_r5_g1,2520.0,0,1,1,False,принято
+synthetic_r5_g1,2530.0,0,1,-1,True,низкая уверенность
+synthetic_r5_g1,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g1,2550.0,0,0,0,False,принято
+synthetic_r5_g1,2560.0,0,0,0,False,принято
+synthetic_r5_g1,2570.0,0,0,0,False,принято
+synthetic_r5_g1,2580.0,0,0,0,False,принято
+synthetic_r5_g1,2590.0,0,0,0,False,принято
+synthetic_r5_g1,2600.0,0,0,0,False,принято
+synthetic_r5_g1,2610.0,0,0,0,False,принято
+synthetic_r5_g1,2620.0,0,0,0,False,принято
+synthetic_r5_g1,2630.0,0,0,0,False,принято
+synthetic_r5_g1,2640.0,0,0,0,False,принято
+synthetic_r5_g1,2650.0,0,0,0,False,принято
+synthetic_r5_g1,2660.0,0,0,0,False,принято
+synthetic_r5_g1,2670.0,0,0,0,False,принято
+synthetic_r5_g1,2680.0,0,0,0,False,принято
+synthetic_r5_g1,2690.0,0,0,0,False,принято
+synthetic_r5_g1,2700.0,0,0,0,False,принято
+synthetic_r5_g1,2710.0,0,0,0,False,принято
+synthetic_r5_g1,2720.0,0,0,0,False,принято
+synthetic_r5_g1,2730.0,0,0,0,False,принято
+synthetic_r5_g1,2740.0,0,0,0,False,принято
+synthetic_r5_g1,2750.0,0,0,0,False,принято
+synthetic_r5_g1,2760.0,0,0,0,False,принято
+synthetic_r5_g1,2770.0,0,0,0,False,принято
+synthetic_r5_g1,2780.0,0,0,0,False,принято
+synthetic_r5_g1,2790.0,0,0,0,False,принято
+synthetic_r5_g1,2800.0,0,0,0,False,принято
+synthetic_r5_g1,2810.0,0,0,0,False,принято
+synthetic_r5_g1,2820.0,0,0,0,False,принято
+synthetic_r5_g1,2830.0,0,0,0,False,принято
+synthetic_r5_g1,2840.0,0,0,0,False,принято
+synthetic_r5_g1,2850.0,0,0,0,False,принято
+synthetic_r5_g1,2860.0,0,0,0,False,принято
+synthetic_r5_g1,2870.0,0,0,0,False,принято
+synthetic_r5_g1,2880.0,0,0,0,False,принято
+synthetic_r5_g1,2890.0,0,0,0,False,принято
+synthetic_r5_g1,2900.0,0,0,0,False,принято
+synthetic_r5_g1,2910.0,0,0,0,False,принято
+synthetic_r5_g1,2920.0,0,0,0,False,принято
+synthetic_r5_g1,2930.0,0,0,0,False,принято
+synthetic_r5_g1,2940.0,0,0,0,False,принято
+synthetic_r5_g1,2950.0,0,0,0,False,принято
+synthetic_r5_g1,2960.0,0,0,0,False,принято
+synthetic_r5_g1,2970.0,0,0,0,False,принято
+synthetic_r5_g1,2980.0,0,0,0,False,принято
+synthetic_r5_g1,2990.0,0,0,0,False,принято
+synthetic_r5_g1,3000.0,0,0,0,False,принято
+synthetic_r5_g2,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g2,60.0,0,0,0,False,принято
+synthetic_r5_g2,70.0,0,0,0,False,принято
+synthetic_r5_g2,80.0,0,0,0,False,принято
+synthetic_r5_g2,90.0,0,0,0,False,принято
+synthetic_r5_g2,100.0,0,0,0,False,принято
+synthetic_r5_g2,110.0,0,0,0,False,принято
+synthetic_r5_g2,120.0,0,0,0,False,принято
+synthetic_r5_g2,130.0,0,0,0,False,принято
+synthetic_r5_g2,140.0,0,0,0,False,принято
+synthetic_r5_g2,150.0,0,0,0,False,принято
+synthetic_r5_g2,160.0,0,0,0,False,принято
+synthetic_r5_g2,170.0,0,0,0,False,принято
+synthetic_r5_g2,180.0,0,0,0,False,принято
+synthetic_r5_g2,190.0,0,0,0,False,принято
+synthetic_r5_g2,200.0,0,0,0,False,принято
+synthetic_r5_g2,210.0,0,0,0,False,принято
+synthetic_r5_g2,220.0,0,0,0,False,принято
+synthetic_r5_g2,230.0,0,0,0,False,принято
+synthetic_r5_g2,240.0,0,0,0,False,принято
+synthetic_r5_g2,250.0,0,0,0,False,принято
+synthetic_r5_g2,260.0,0,0,0,False,принято
+synthetic_r5_g2,270.0,0,0,0,False,принято
+synthetic_r5_g2,280.0,0,0,0,False,принято
+synthetic_r5_g2,290.0,0,0,0,False,принято
+synthetic_r5_g2,300.0,0,0,0,False,принято
+synthetic_r5_g2,310.0,0,0,0,False,принято
+synthetic_r5_g2,320.0,0,0,0,False,принято
+synthetic_r5_g2,330.0,0,0,0,False,принято
+synthetic_r5_g2,340.0,0,0,0,False,принято
+synthetic_r5_g2,350.0,0,0,0,False,принято
+synthetic_r5_g2,360.0,0,0,0,False,принято
+synthetic_r5_g2,370.0,0,0,0,False,принято
+synthetic_r5_g2,380.0,0,0,0,False,принято
+synthetic_r5_g2,390.0,0,0,0,False,принято
+synthetic_r5_g2,400.0,0,0,0,False,принято
+synthetic_r5_g2,410.0,0,0,0,False,принято
+synthetic_r5_g2,420.0,0,0,0,False,принято
+synthetic_r5_g2,430.0,0,0,0,False,принято
+synthetic_r5_g2,440.0,0,0,0,False,принято
+synthetic_r5_g2,450.0,0,0,0,False,принято
+synthetic_r5_g2,460.0,0,0,0,False,принято
+synthetic_r5_g2,470.0,0,0,0,False,принято
+synthetic_r5_g2,480.0,0,0,0,False,принято
+synthetic_r5_g2,490.0,0,0,0,False,принято
+synthetic_r5_g2,500.0,0,0,0,False,принято
+synthetic_r5_g2,510.0,2,0,0,False,принято
+synthetic_r5_g2,520.0,2,0,0,False,принято
+synthetic_r5_g2,530.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,540.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,550.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,560.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,570.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,580.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,590.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,600.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,610.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,620.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,630.0,2,2,2,False,принято
+synthetic_r5_g2,640.0,2,2,2,False,принято
+synthetic_r5_g2,650.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,660.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,670.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,680.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,690.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,700.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,710.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,720.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,730.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,740.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,750.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,760.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,770.0,2,2,2,False,принято
+synthetic_r5_g2,780.0,2,2,2,False,принято
+synthetic_r5_g2,790.0,2,2,2,False,принято
+synthetic_r5_g2,800.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,810.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,820.0,2,2,2,False,принято
+synthetic_r5_g2,830.0,2,2,2,False,принято
+synthetic_r5_g2,840.0,2,2,2,False,принято
+synthetic_r5_g2,850.0,2,2,2,False,принято
+synthetic_r5_g2,860.0,2,2,2,False,принято
+synthetic_r5_g2,870.0,2,2,2,False,принято
+synthetic_r5_g2,880.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,890.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,900.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,910.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,920.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,930.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,940.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,950.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,960.0,2,3,-1,True,ожидание подтверждения
+synthetic_r5_g2,970.0,2,1,-1,True,низкая уверенность
+synthetic_r5_g2,980.0,2,3,-1,True,ожидание подтверждения
+synthetic_r5_g2,990.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1000.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1010.0,2,2,2,False,принято
+synthetic_r5_g2,1020.0,2,2,2,False,принято
+synthetic_r5_g2,1030.0,2,2,2,False,принято
+synthetic_r5_g2,1040.0,2,2,2,False,принято
+synthetic_r5_g2,1050.0,2,2,2,False,принято
+synthetic_r5_g2,1060.0,2,2,2,False,принято
+synthetic_r5_g2,1070.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1080.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1090.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1100.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1110.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1120.0,2,4,-1,True,низкая уверенность
+synthetic_r5_g2,1130.0,2,4,-1,True,низкая уверенность
+synthetic_r5_g2,1140.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1150.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1160.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1170.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1180.0,2,3,-1,True,ожидание подтверждения
+synthetic_r5_g2,1190.0,2,3,3,False,принято
+synthetic_r5_g2,1200.0,2,3,3,False,принято
+synthetic_r5_g2,1210.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1220.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1230.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1240.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1250.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1260.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1270.0,2,2,2,False,принято
+synthetic_r5_g2,1280.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1290.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1300.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1310.0,2,3,-1,True,ожидание подтверждения
+synthetic_r5_g2,1320.0,2,3,3,False,принято
+synthetic_r5_g2,1330.0,2,3,3,False,принято
+synthetic_r5_g2,1340.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1350.0,2,2,2,False,принято
+synthetic_r5_g2,1360.0,2,2,2,False,принято
+synthetic_r5_g2,1370.0,2,2,2,False,принято
+synthetic_r5_g2,1380.0,2,2,2,False,принято
+synthetic_r5_g2,1390.0,2,2,2,False,принято
+synthetic_r5_g2,1400.0,2,2,2,False,принято
+synthetic_r5_g2,1410.0,2,2,2,False,принято
+synthetic_r5_g2,1420.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1430.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1440.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1450.0,2,5,5,False,принято
+synthetic_r5_g2,1460.0,2,5,5,False,принято
+synthetic_r5_g2,1470.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1480.0,2,2,2,False,принято
+synthetic_r5_g2,1490.0,2,2,2,False,принято
+synthetic_r5_g2,1500.0,2,2,2,False,принято
+synthetic_r5_g2,1510.0,2,2,2,False,принято
+synthetic_r5_g2,1520.0,2,2,2,False,принято
+synthetic_r5_g2,1530.0,2,2,2,False,принято
+synthetic_r5_g2,1540.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1550.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1560.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1570.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1580.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1590.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1600.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1610.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1620.0,2,2,2,False,принято
+synthetic_r5_g2,1630.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1640.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1650.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1660.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1670.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1680.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1690.0,2,5,5,False,принято
+synthetic_r5_g2,1700.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1710.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1720.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1730.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1740.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1750.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1760.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1770.0,2,5,5,False,принято
+synthetic_r5_g2,1780.0,2,5,5,False,принято
+synthetic_r5_g2,1790.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1800.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1810.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1820.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,1830.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1840.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1850.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1860.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,1870.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,1880.0,2,2,2,False,принято
+synthetic_r5_g2,1890.0,2,2,2,False,принято
+synthetic_r5_g2,1900.0,2,2,2,False,принято
+synthetic_r5_g2,1910.0,2,2,2,False,принято
+synthetic_r5_g2,1920.0,2,2,2,False,принято
+synthetic_r5_g2,1930.0,2,2,2,False,принято
+synthetic_r5_g2,1940.0,2,2,2,False,принято
+synthetic_r5_g2,1950.0,2,2,2,False,принято
+synthetic_r5_g2,1960.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1970.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,1980.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,1990.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2000.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,2010.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2020.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,2030.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,2040.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,2050.0,2,3,-1,True,ожидание подтверждения
+synthetic_r5_g2,2060.0,2,3,3,False,принято
+synthetic_r5_g2,2070.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2080.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2090.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2100.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2110.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2120.0,2,2,2,False,принято
+synthetic_r5_g2,2130.0,2,2,2,False,принято
+synthetic_r5_g2,2140.0,2,2,2,False,принято
+synthetic_r5_g2,2150.0,2,2,2,False,принято
+synthetic_r5_g2,2160.0,2,2,2,False,принято
+synthetic_r5_g2,2170.0,2,2,2,False,принято
+synthetic_r5_g2,2180.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2190.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2200.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2210.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2220.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2230.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2240.0,2,2,2,False,принято
+synthetic_r5_g2,2250.0,2,2,2,False,принято
+synthetic_r5_g2,2260.0,2,2,2,False,принято
+synthetic_r5_g2,2270.0,2,2,2,False,принято
+synthetic_r5_g2,2280.0,2,2,2,False,принято
+synthetic_r5_g2,2290.0,2,2,2,False,принято
+synthetic_r5_g2,2300.0,2,2,2,False,принято
+synthetic_r5_g2,2310.0,2,2,2,False,принято
+synthetic_r5_g2,2320.0,2,2,2,False,принято
+synthetic_r5_g2,2330.0,2,4,-1,True,низкая уверенность
+synthetic_r5_g2,2340.0,2,4,-1,True,низкая уверенность
+synthetic_r5_g2,2350.0,2,4,-1,True,низкая уверенность
+synthetic_r5_g2,2360.0,2,5,-1,True,ожидание подтверждения
+synthetic_r5_g2,2370.0,2,5,-1,True,низкая уверенность
+synthetic_r5_g2,2380.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2390.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2400.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2410.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2420.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2430.0,2,2,2,False,принято
+synthetic_r5_g2,2440.0,2,3,-1,True,низкая уверенность
+synthetic_r5_g2,2450.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2460.0,2,2,-1,True,низкая уверенность
+synthetic_r5_g2,2470.0,2,2,-1,True,ожидание подтверждения
+synthetic_r5_g2,2480.0,2,2,2,False,принято
+synthetic_r5_g2,2490.0,2,2,2,False,принято
+synthetic_r5_g2,2500.0,2,2,2,False,принято
+synthetic_r5_g2,2510.0,0,2,2,False,принято
+synthetic_r5_g2,2520.0,0,2,-1,True,низкая уверенность
+synthetic_r5_g2,2530.0,0,0,-1,True,низкая уверенность
+synthetic_r5_g2,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g2,2550.0,0,0,0,False,принято
+synthetic_r5_g2,2560.0,0,0,0,False,принято
+synthetic_r5_g2,2570.0,0,0,0,False,принято
+synthetic_r5_g2,2580.0,0,0,0,False,принято
+synthetic_r5_g2,2590.0,0,0,0,False,принято
+synthetic_r5_g2,2600.0,0,0,0,False,принято
+synthetic_r5_g2,2610.0,0,0,0,False,принято
+synthetic_r5_g2,2620.0,0,0,0,False,принято
+synthetic_r5_g2,2630.0,0,0,0,False,принято
+synthetic_r5_g2,2640.0,0,0,0,False,принято
+synthetic_r5_g2,2650.0,0,0,0,False,принято
+synthetic_r5_g2,2660.0,0,0,0,False,принято
+synthetic_r5_g2,2670.0,0,0,0,False,принято
+synthetic_r5_g2,2680.0,0,0,0,False,принято
+synthetic_r5_g2,2690.0,0,0,0,False,принято
+synthetic_r5_g2,2700.0,0,0,0,False,принято
+synthetic_r5_g2,2710.0,0,0,0,False,принято
+synthetic_r5_g2,2720.0,0,0,0,False,принято
+synthetic_r5_g2,2730.0,0,0,0,False,принято
+synthetic_r5_g2,2740.0,0,0,0,False,принято
+synthetic_r5_g2,2750.0,0,0,0,False,принято
+synthetic_r5_g2,2760.0,0,0,0,False,принято
+synthetic_r5_g2,2770.0,0,0,0,False,принято
+synthetic_r5_g2,2780.0,0,0,0,False,принято
+synthetic_r5_g2,2790.0,0,0,0,False,принято
+synthetic_r5_g2,2800.0,0,0,0,False,принято
+synthetic_r5_g2,2810.0,0,0,0,False,принято
+synthetic_r5_g2,2820.0,0,0,0,False,принято
+synthetic_r5_g2,2830.0,0,0,0,False,принято
+synthetic_r5_g2,2840.0,0,0,0,False,принято
+synthetic_r5_g2,2850.0,0,0,0,False,принято
+synthetic_r5_g2,2860.0,0,0,0,False,принято
+synthetic_r5_g2,2870.0,0,0,0,False,принято
+synthetic_r5_g2,2880.0,0,0,0,False,принято
+synthetic_r5_g2,2890.0,0,0,0,False,принято
+synthetic_r5_g2,2900.0,0,0,0,False,принято
+synthetic_r5_g2,2910.0,0,0,0,False,принято
+synthetic_r5_g2,2920.0,0,0,0,False,принято
+synthetic_r5_g2,2930.0,0,0,0,False,принято
+synthetic_r5_g2,2940.0,0,0,0,False,принято
+synthetic_r5_g2,2950.0,0,0,0,False,принято
+synthetic_r5_g2,2960.0,0,0,0,False,принято
+synthetic_r5_g2,2970.0,0,0,0,False,принято
+synthetic_r5_g2,2980.0,0,0,0,False,принято
+synthetic_r5_g2,2990.0,0,0,0,False,принято
+synthetic_r5_g2,3000.0,0,0,0,False,принято
+synthetic_r5_g3,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g3,60.0,0,0,0,False,принято
+synthetic_r5_g3,70.0,0,0,0,False,принято
+synthetic_r5_g3,80.0,0,0,0,False,принято
+synthetic_r5_g3,90.0,0,0,0,False,принято
+synthetic_r5_g3,100.0,0,0,0,False,принято
+synthetic_r5_g3,110.0,0,0,0,False,принято
+synthetic_r5_g3,120.0,0,0,0,False,принято
+synthetic_r5_g3,130.0,0,0,0,False,принято
+synthetic_r5_g3,140.0,0,0,0,False,принято
+synthetic_r5_g3,150.0,0,0,0,False,принято
+synthetic_r5_g3,160.0,0,0,0,False,принято
+synthetic_r5_g3,170.0,0,0,0,False,принято
+synthetic_r5_g3,180.0,0,0,0,False,принято
+synthetic_r5_g3,190.0,0,0,0,False,принято
+synthetic_r5_g3,200.0,0,0,0,False,принято
+synthetic_r5_g3,210.0,0,0,0,False,принято
+synthetic_r5_g3,220.0,0,0,0,False,принято
+synthetic_r5_g3,230.0,0,0,0,False,принято
+synthetic_r5_g3,240.0,0,0,0,False,принято
+synthetic_r5_g3,250.0,0,0,0,False,принято
+synthetic_r5_g3,260.0,0,0,0,False,принято
+synthetic_r5_g3,270.0,0,0,0,False,принято
+synthetic_r5_g3,280.0,0,0,0,False,принято
+synthetic_r5_g3,290.0,0,0,0,False,принято
+synthetic_r5_g3,300.0,0,0,0,False,принято
+synthetic_r5_g3,310.0,0,0,0,False,принято
+synthetic_r5_g3,320.0,0,0,0,False,принято
+synthetic_r5_g3,330.0,0,0,0,False,принято
+synthetic_r5_g3,340.0,0,0,0,False,принято
+synthetic_r5_g3,350.0,0,0,0,False,принято
+synthetic_r5_g3,360.0,0,0,0,False,принято
+synthetic_r5_g3,370.0,0,0,0,False,принято
+synthetic_r5_g3,380.0,0,0,0,False,принято
+synthetic_r5_g3,390.0,0,0,0,False,принято
+synthetic_r5_g3,400.0,0,0,0,False,принято
+synthetic_r5_g3,410.0,0,0,0,False,принято
+synthetic_r5_g3,420.0,0,0,0,False,принято
+synthetic_r5_g3,430.0,0,0,0,False,принято
+synthetic_r5_g3,440.0,0,0,0,False,принято
+synthetic_r5_g3,450.0,0,0,0,False,принято
+synthetic_r5_g3,460.0,0,0,0,False,принято
+synthetic_r5_g3,470.0,0,0,0,False,принято
+synthetic_r5_g3,480.0,0,0,0,False,принято
+synthetic_r5_g3,490.0,0,0,0,False,принято
+synthetic_r5_g3,500.0,0,0,0,False,принято
+synthetic_r5_g3,510.0,3,0,0,False,принято
+synthetic_r5_g3,520.0,3,0,0,False,принято
+synthetic_r5_g3,530.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,540.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,550.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,560.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,570.0,3,1,1,False,принято
+synthetic_r5_g3,580.0,3,1,1,False,принято
+synthetic_r5_g3,590.0,3,1,1,False,принято
+synthetic_r5_g3,600.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,610.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,620.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,630.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,640.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,650.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,660.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,670.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,680.0,3,1,1,False,принято
+synthetic_r5_g3,690.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,700.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,710.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,720.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,730.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,740.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,750.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,760.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,770.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,780.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,790.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,800.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,810.0,3,1,1,False,принято
+synthetic_r5_g3,820.0,3,1,1,False,принято
+synthetic_r5_g3,830.0,3,1,1,False,принято
+synthetic_r5_g3,840.0,3,1,1,False,принято
+synthetic_r5_g3,850.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,860.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,870.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,880.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,890.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,900.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,910.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,920.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,930.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,940.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,950.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,960.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,970.0,3,1,1,False,принято
+synthetic_r5_g3,980.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,990.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1000.0,3,1,1,False,принято
+synthetic_r5_g3,1010.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,1020.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1030.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1040.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1050.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1060.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1070.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1080.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1090.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1100.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1110.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1120.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1130.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1140.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1150.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1160.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1170.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1180.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1190.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1200.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1210.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1220.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1230.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1240.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1250.0,3,1,1,False,принято
+synthetic_r5_g3,1260.0,3,1,1,False,принято
+synthetic_r5_g3,1270.0,3,1,1,False,принято
+synthetic_r5_g3,1280.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1290.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1300.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1310.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1320.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1330.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1340.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1350.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1360.0,3,5,-1,True,ожидание подтверждения
+synthetic_r5_g3,1370.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1380.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1390.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1400.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1410.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1420.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1430.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1440.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1450.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1460.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1470.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1480.0,3,5,-1,True,ожидание подтверждения
+synthetic_r5_g3,1490.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1500.0,3,5,-1,True,ожидание подтверждения
+synthetic_r5_g3,1510.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1520.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1530.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1540.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1550.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1560.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1570.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1580.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1590.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1600.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1610.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1620.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1630.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1640.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,1650.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1660.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1670.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1680.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,1690.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1700.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,1710.0,3,3,3,False,принято
+synthetic_r5_g3,1720.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1730.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1740.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,1750.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1760.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1770.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1780.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1790.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1800.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1810.0,3,1,1,False,принято
+synthetic_r5_g3,1820.0,3,1,1,False,принято
+synthetic_r5_g3,1830.0,3,1,1,False,принято
+synthetic_r5_g3,1840.0,3,1,1,False,принято
+synthetic_r5_g3,1850.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1860.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1870.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1880.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1890.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1900.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1910.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1920.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,1930.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1940.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,1950.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,1960.0,3,1,1,False,принято
+synthetic_r5_g3,1970.0,3,1,1,False,принято
+synthetic_r5_g3,1980.0,3,1,1,False,принято
+synthetic_r5_g3,1990.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2000.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2010.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2020.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2030.0,3,3,3,False,принято
+synthetic_r5_g3,2040.0,3,3,3,False,принято
+synthetic_r5_g3,2050.0,3,3,3,False,принято
+synthetic_r5_g3,2060.0,3,3,3,False,принято
+synthetic_r5_g3,2070.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2080.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,2090.0,3,1,1,False,принято
+synthetic_r5_g3,2100.0,3,1,1,False,принято
+synthetic_r5_g3,2110.0,3,1,1,False,принято
+synthetic_r5_g3,2120.0,3,1,1,False,принято
+synthetic_r5_g3,2130.0,3,1,1,False,принято
+synthetic_r5_g3,2140.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2150.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2160.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2170.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2180.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2190.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2200.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2210.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2220.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2230.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2240.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2250.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2260.0,3,3,3,False,принято
+synthetic_r5_g3,2270.0,3,3,3,False,принято
+synthetic_r5_g3,2280.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2290.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2300.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2310.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2320.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2330.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2340.0,3,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2350.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2360.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2370.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,2380.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2390.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2400.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2410.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2420.0,3,1,-1,True,ожидание подтверждения
+synthetic_r5_g3,2430.0,3,1,1,False,принято
+synthetic_r5_g3,2440.0,3,1,1,False,принято
+synthetic_r5_g3,2450.0,3,1,1,False,принято
+synthetic_r5_g3,2460.0,3,1,1,False,принято
+synthetic_r5_g3,2470.0,3,1,-1,True,низкая уверенность
+synthetic_r5_g3,2480.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2490.0,3,5,-1,True,низкая уверенность
+synthetic_r5_g3,2500.0,3,3,-1,True,низкая уверенность
+synthetic_r5_g3,2510.0,0,3,-1,True,ожидание подтверждения
+synthetic_r5_g3,2520.0,0,3,3,False,принято
+synthetic_r5_g3,2530.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g3,2540.0,0,0,0,False,принято
+synthetic_r5_g3,2550.0,0,0,0,False,принято
+synthetic_r5_g3,2560.0,0,0,0,False,принято
+synthetic_r5_g3,2570.0,0,0,0,False,принято
+synthetic_r5_g3,2580.0,0,0,0,False,принято
+synthetic_r5_g3,2590.0,0,0,0,False,принято
+synthetic_r5_g3,2600.0,0,0,0,False,принято
+synthetic_r5_g3,2610.0,0,0,0,False,принято
+synthetic_r5_g3,2620.0,0,0,0,False,принято
+synthetic_r5_g3,2630.0,0,0,0,False,принято
+synthetic_r5_g3,2640.0,0,0,0,False,принято
+synthetic_r5_g3,2650.0,0,0,0,False,принято
+synthetic_r5_g3,2660.0,0,0,0,False,принято
+synthetic_r5_g3,2670.0,0,0,0,False,принято
+synthetic_r5_g3,2680.0,0,0,0,False,принято
+synthetic_r5_g3,2690.0,0,0,0,False,принято
+synthetic_r5_g3,2700.0,0,0,0,False,принято
+synthetic_r5_g3,2710.0,0,0,0,False,принято
+synthetic_r5_g3,2720.0,0,0,0,False,принято
+synthetic_r5_g3,2730.0,0,0,0,False,принято
+synthetic_r5_g3,2740.0,0,0,0,False,принято
+synthetic_r5_g3,2750.0,0,0,0,False,принято
+synthetic_r5_g3,2760.0,0,0,0,False,принято
+synthetic_r5_g3,2770.0,0,0,0,False,принято
+synthetic_r5_g3,2780.0,0,0,0,False,принято
+synthetic_r5_g3,2790.0,0,0,0,False,принято
+synthetic_r5_g3,2800.0,0,0,0,False,принято
+synthetic_r5_g3,2810.0,0,0,0,False,принято
+synthetic_r5_g3,2820.0,0,0,0,False,принято
+synthetic_r5_g3,2830.0,0,0,0,False,принято
+synthetic_r5_g3,2840.0,0,0,0,False,принято
+synthetic_r5_g3,2850.0,0,0,0,False,принято
+synthetic_r5_g3,2860.0,0,0,0,False,принято
+synthetic_r5_g3,2870.0,0,0,0,False,принято
+synthetic_r5_g3,2880.0,0,0,0,False,принято
+synthetic_r5_g3,2890.0,0,0,0,False,принято
+synthetic_r5_g3,2900.0,0,0,0,False,принято
+synthetic_r5_g3,2910.0,0,0,0,False,принято
+synthetic_r5_g3,2920.0,0,0,0,False,принято
+synthetic_r5_g3,2930.0,0,0,0,False,принято
+synthetic_r5_g3,2940.0,0,0,0,False,принято
+synthetic_r5_g3,2950.0,0,0,0,False,принято
+synthetic_r5_g3,2960.0,0,0,0,False,принято
+synthetic_r5_g3,2970.0,0,0,0,False,принято
+synthetic_r5_g3,2980.0,0,0,0,False,принято
+synthetic_r5_g3,2990.0,0,0,0,False,принято
+synthetic_r5_g3,3000.0,0,0,0,False,принято
+synthetic_r5_g4,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g4,60.0,0,0,0,False,принято
+synthetic_r5_g4,70.0,0,0,0,False,принято
+synthetic_r5_g4,80.0,0,0,0,False,принято
+synthetic_r5_g4,90.0,0,0,0,False,принято
+synthetic_r5_g4,100.0,0,0,0,False,принято
+synthetic_r5_g4,110.0,0,0,0,False,принято
+synthetic_r5_g4,120.0,0,0,0,False,принято
+synthetic_r5_g4,130.0,0,0,0,False,принято
+synthetic_r5_g4,140.0,0,0,0,False,принято
+synthetic_r5_g4,150.0,0,0,0,False,принято
+synthetic_r5_g4,160.0,0,0,0,False,принято
+synthetic_r5_g4,170.0,0,0,0,False,принято
+synthetic_r5_g4,180.0,0,0,0,False,принято
+synthetic_r5_g4,190.0,0,0,0,False,принято
+synthetic_r5_g4,200.0,0,0,0,False,принято
+synthetic_r5_g4,210.0,0,0,0,False,принято
+synthetic_r5_g4,220.0,0,0,0,False,принято
+synthetic_r5_g4,230.0,0,0,0,False,принято
+synthetic_r5_g4,240.0,0,0,0,False,принято
+synthetic_r5_g4,250.0,0,0,0,False,принято
+synthetic_r5_g4,260.0,0,0,0,False,принято
+synthetic_r5_g4,270.0,0,0,0,False,принято
+synthetic_r5_g4,280.0,0,0,0,False,принято
+synthetic_r5_g4,290.0,0,0,0,False,принято
+synthetic_r5_g4,300.0,0,0,0,False,принято
+synthetic_r5_g4,310.0,0,0,0,False,принято
+synthetic_r5_g4,320.0,0,0,0,False,принято
+synthetic_r5_g4,330.0,0,0,0,False,принято
+synthetic_r5_g4,340.0,0,0,0,False,принято
+synthetic_r5_g4,350.0,0,0,0,False,принято
+synthetic_r5_g4,360.0,0,0,0,False,принято
+synthetic_r5_g4,370.0,0,0,0,False,принято
+synthetic_r5_g4,380.0,0,0,0,False,принято
+synthetic_r5_g4,390.0,0,0,0,False,принято
+synthetic_r5_g4,400.0,0,0,0,False,принято
+synthetic_r5_g4,410.0,0,0,0,False,принято
+synthetic_r5_g4,420.0,0,0,0,False,принято
+synthetic_r5_g4,430.0,0,0,0,False,принято
+synthetic_r5_g4,440.0,0,0,0,False,принято
+synthetic_r5_g4,450.0,0,0,0,False,принято
+synthetic_r5_g4,460.0,0,0,0,False,принято
+synthetic_r5_g4,470.0,0,0,0,False,принято
+synthetic_r5_g4,480.0,0,0,0,False,принято
+synthetic_r5_g4,490.0,0,0,0,False,принято
+synthetic_r5_g4,500.0,0,0,0,False,принято
+synthetic_r5_g4,510.0,4,0,0,False,принято
+synthetic_r5_g4,520.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,530.0,4,4,4,False,принято
+synthetic_r5_g4,540.0,4,4,4,False,принято
+synthetic_r5_g4,550.0,4,4,4,False,принято
+synthetic_r5_g4,560.0,4,4,4,False,принято
+synthetic_r5_g4,570.0,4,4,4,False,принято
+synthetic_r5_g4,580.0,4,4,4,False,принято
+synthetic_r5_g4,590.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,600.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,610.0,4,4,4,False,принято
+synthetic_r5_g4,620.0,4,4,4,False,принято
+synthetic_r5_g4,630.0,4,4,4,False,принято
+synthetic_r5_g4,640.0,4,4,4,False,принято
+synthetic_r5_g4,650.0,4,4,4,False,принято
+synthetic_r5_g4,660.0,4,4,4,False,принято
+synthetic_r5_g4,670.0,4,4,4,False,принято
+synthetic_r5_g4,680.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,690.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,700.0,4,4,4,False,принято
+synthetic_r5_g4,710.0,4,4,4,False,принято
+synthetic_r5_g4,720.0,4,4,4,False,принято
+synthetic_r5_g4,730.0,4,4,4,False,принято
+synthetic_r5_g4,740.0,4,4,4,False,принято
+synthetic_r5_g4,750.0,4,4,4,False,принято
+synthetic_r5_g4,760.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,770.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,780.0,4,4,4,False,принято
+synthetic_r5_g4,790.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,800.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,810.0,4,4,4,False,принято
+synthetic_r5_g4,820.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,830.0,4,1,-1,True,низкая уверенность
+synthetic_r5_g4,840.0,4,1,-1,True,низкая уверенность
+synthetic_r5_g4,850.0,4,1,-1,True,низкая уверенность
+synthetic_r5_g4,860.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,870.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,880.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,890.0,4,4,4,False,принято
+synthetic_r5_g4,900.0,4,4,4,False,принято
+synthetic_r5_g4,910.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,920.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,930.0,4,4,4,False,принято
+synthetic_r5_g4,940.0,4,4,4,False,принято
+synthetic_r5_g4,950.0,4,4,4,False,принято
+synthetic_r5_g4,960.0,4,4,4,False,принято
+synthetic_r5_g4,970.0,4,4,4,False,принято
+synthetic_r5_g4,980.0,4,4,4,False,принято
+synthetic_r5_g4,990.0,4,4,4,False,принято
+synthetic_r5_g4,1000.0,4,4,4,False,принято
+synthetic_r5_g4,1010.0,4,4,4,False,принято
+synthetic_r5_g4,1020.0,4,4,4,False,принято
+synthetic_r5_g4,1030.0,4,4,4,False,принято
+synthetic_r5_g4,1040.0,4,4,4,False,принято
+synthetic_r5_g4,1050.0,4,4,4,False,принято
+synthetic_r5_g4,1060.0,4,4,4,False,принято
+synthetic_r5_g4,1070.0,4,4,4,False,принято
+synthetic_r5_g4,1080.0,4,4,4,False,принято
+synthetic_r5_g4,1090.0,4,4,4,False,принято
+synthetic_r5_g4,1100.0,4,4,4,False,принято
+synthetic_r5_g4,1110.0,4,4,4,False,принято
+synthetic_r5_g4,1120.0,4,4,4,False,принято
+synthetic_r5_g4,1130.0,4,4,4,False,принято
+synthetic_r5_g4,1140.0,4,4,4,False,принято
+synthetic_r5_g4,1150.0,4,4,4,False,принято
+synthetic_r5_g4,1160.0,4,4,4,False,принято
+synthetic_r5_g4,1170.0,4,4,4,False,принято
+synthetic_r5_g4,1180.0,4,4,4,False,принято
+synthetic_r5_g4,1190.0,4,4,4,False,принято
+synthetic_r5_g4,1200.0,4,4,4,False,принято
+synthetic_r5_g4,1210.0,4,4,4,False,принято
+synthetic_r5_g4,1220.0,4,4,4,False,принято
+synthetic_r5_g4,1230.0,4,4,4,False,принято
+synthetic_r5_g4,1240.0,4,4,4,False,принято
+synthetic_r5_g4,1250.0,4,4,4,False,принято
+synthetic_r5_g4,1260.0,4,4,4,False,принято
+synthetic_r5_g4,1270.0,4,4,4,False,принято
+synthetic_r5_g4,1280.0,4,4,4,False,принято
+synthetic_r5_g4,1290.0,4,4,4,False,принято
+synthetic_r5_g4,1300.0,4,4,4,False,принято
+synthetic_r5_g4,1310.0,4,4,4,False,принято
+synthetic_r5_g4,1320.0,4,4,4,False,принято
+synthetic_r5_g4,1330.0,4,4,4,False,принято
+synthetic_r5_g4,1340.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,1350.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,1360.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,1370.0,4,4,4,False,принято
+synthetic_r5_g4,1380.0,4,4,4,False,принято
+synthetic_r5_g4,1390.0,4,4,4,False,принято
+synthetic_r5_g4,1400.0,4,4,4,False,принято
+synthetic_r5_g4,1410.0,4,4,4,False,принято
+synthetic_r5_g4,1420.0,4,4,4,False,принято
+synthetic_r5_g4,1430.0,4,4,4,False,принято
+synthetic_r5_g4,1440.0,4,4,4,False,принято
+synthetic_r5_g4,1450.0,4,4,4,False,принято
+synthetic_r5_g4,1460.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,1470.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,1480.0,4,4,-1,True,низкая уверенность
+synthetic_r5_g4,1490.0,4,4,-1,True,ожидание подтверждения
+synthetic_r5_g4,1500.0,4,4,4,False,принято
+synthetic_r5_g4,1510.0,4,4,4,False,принято
+synthetic_r5_g4,1520.0,4,4,4,False,принято
+synthetic_r5_g4,1530.0,4,4,4,False,принято
+synthetic_r5_g4,1540.0,4,4,4,False,принято
+synthetic_r5_g4,1550.0,4,4,4,False,принято
+synthetic_r5_g4,1560.0,4,4,4,False,принято
+synthetic_r5_g4,1570.0,4,4,4,False,принято
+synthetic_r5_g4,1580.0,4,4,4,False,принято
+synthetic_r5_g4,1590.0,4,4,4,False,принято
+synthetic_r5_g4,1600.0,4,4,4,False,принято
+synthetic_r5_g4,1610.0,4,4,4,False,принято
+synthetic_r5_g4,1620.0,4,4,4,False,принято
+synthetic_r5_g4,1630.0,4,4,4,False,принято
+synthetic_r5_g4,1640.0,4,4,4,False,принято
+synthetic_r5_g4,1650.0,4,4,4,False,принято
+synthetic_r5_g4,1660.0,4,4,4,False,принято
+synthetic_r5_g4,1670.0,4,4,4,False,принято
+synthetic_r5_g4,1680.0,4,4,4,False,принято
+synthetic_r5_g4,1690.0,4,4,4,False,принято
+synthetic_r5_g4,1700.0,4,4,4,False,принято
+synthetic_r5_g4,1710.0,4,4,4,False,принято
+synthetic_r5_g4,1720.0,4,4,4,False,принято
+synthetic_r5_g4,1730.0,4,4,4,False,принято
+synthetic_r5_g4,1740.0,4,4,4,False,принято
+synthetic_r5_g4,1750.0,4,4,4,False,принято
+synthetic_r5_g4,1760.0,4,4,4,False,принято
+synthetic_r5_g4,1770.0,4,4,4,False,принято
+synthetic_r5_g4,1780.0,4,4,4,False,принято
+synthetic_r5_g4,1790.0,4,4,4,False,принято
+synthetic_r5_g4,1800.0,4,4,4,False,принято
+synthetic_r5_g4,1810.0,4,4,4,False,принято
+synthetic_r5_g4,1820.0,4,4,4,False,принято
+synthetic_r5_g4,1830.0,4,4,4,False,принято
+synthetic_r5_g4,1840.0,4,4,4,False,принято
+synthetic_r5_g4,1850.0,4,4,4,False,принято
+synthetic_r5_g4,1860.0,4,4,4,False,принято
+synthetic_r5_g4,1870.0,4,4,4,False,принято
+synthetic_r5_g4,1880.0,4,4,4,False,принято
+synthetic_r5_g4,1890.0,4,4,4,False,принято
+synthetic_r5_g4,1900.0,4,4,4,False,принято
+synthetic_r5_g4,1910.0,4,4,4,False,принято
+synthetic_r5_g4,1920.0,4,4,4,False,принято
+synthetic_r5_g4,1930.0,4,4,4,False,принято
+synthetic_r5_g4,1940.0,4,4,4,False,принято
+synthetic_r5_g4,1950.0,4,4,4,False,принято
+synthetic_r5_g4,1960.0,4,4,4,False,принято
+synthetic_r5_g4,1970.0,4,4,4,False,принято
+synthetic_r5_g4,1980.0,4,4,4,False,принято
+synthetic_r5_g4,1990.0,4,4,4,False,принято
+synthetic_r5_g4,2000.0,4,4,4,False,принято
+synthetic_r5_g4,2010.0,4,4,4,False,принято
+synthetic_r5_g4,2020.0,4,4,4,False,принято
+synthetic_r5_g4,2030.0,4,4,4,False,принято
+synthetic_r5_g4,2040.0,4,4,4,False,принято
+synthetic_r5_g4,2050.0,4,4,4,False,принято
+synthetic_r5_g4,2060.0,4,4,4,False,принято
+synthetic_r5_g4,2070.0,4,4,4,False,принято
+synthetic_r5_g4,2080.0,4,4,4,False,принято
+synthetic_r5_g4,2090.0,4,4,4,False,принято
+synthetic_r5_g4,2100.0,4,4,4,False,принято
+synthetic_r5_g4,2110.0,4,4,4,False,принято
+synthetic_r5_g4,2120.0,4,4,4,False,принято
+synthetic_r5_g4,2130.0,4,4,4,False,принято
+synthetic_r5_g4,2140.0,4,4,4,False,принято
+synthetic_r5_g4,2150.0,4,4,4,False,принято
+synthetic_r5_g4,2160.0,4,4,4,False,принято
+synthetic_r5_g4,2170.0,4,4,4,False,принято
+synthetic_r5_g4,2180.0,4,4,4,False,принято
+synthetic_r5_g4,2190.0,4,4,4,False,принято
+synthetic_r5_g4,2200.0,4,4,4,False,принято
+synthetic_r5_g4,2210.0,4,4,4,False,принято
+synthetic_r5_g4,2220.0,4,4,4,False,принято
+synthetic_r5_g4,2230.0,4,4,4,False,принято
+synthetic_r5_g4,2240.0,4,4,4,False,принято
+synthetic_r5_g4,2250.0,4,4,4,False,принято
+synthetic_r5_g4,2260.0,4,4,4,False,принято
+synthetic_r5_g4,2270.0,4,4,4,False,принято
+synthetic_r5_g4,2280.0,4,4,4,False,принято
+synthetic_r5_g4,2290.0,4,4,4,False,принято
+synthetic_r5_g4,2300.0,4,4,4,False,принято
+synthetic_r5_g4,2310.0,4,4,4,False,принято
+synthetic_r5_g4,2320.0,4,4,4,False,принято
+synthetic_r5_g4,2330.0,4,4,4,False,принято
+synthetic_r5_g4,2340.0,4,4,4,False,принято
+synthetic_r5_g4,2350.0,4,4,4,False,принято
+synthetic_r5_g4,2360.0,4,4,4,False,принято
+synthetic_r5_g4,2370.0,4,4,4,False,принято
+synthetic_r5_g4,2380.0,4,4,4,False,принято
+synthetic_r5_g4,2390.0,4,4,4,False,принято
+synthetic_r5_g4,2400.0,4,4,4,False,принято
+synthetic_r5_g4,2410.0,4,4,4,False,принято
+synthetic_r5_g4,2420.0,4,4,4,False,принято
+synthetic_r5_g4,2430.0,4,4,4,False,принято
+synthetic_r5_g4,2440.0,4,4,4,False,принято
+synthetic_r5_g4,2450.0,4,4,4,False,принято
+synthetic_r5_g4,2460.0,4,4,4,False,принято
+synthetic_r5_g4,2470.0,4,4,4,False,принято
+synthetic_r5_g4,2480.0,4,4,4,False,принято
+synthetic_r5_g4,2490.0,4,4,4,False,принято
+synthetic_r5_g4,2500.0,4,4,4,False,принято
+synthetic_r5_g4,2510.0,0,4,4,False,принято
+synthetic_r5_g4,2520.0,0,4,4,False,принято
+synthetic_r5_g4,2530.0,0,4,4,False,принято
+synthetic_r5_g4,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g4,2550.0,0,0,0,False,принято
+synthetic_r5_g4,2560.0,0,0,0,False,принято
+synthetic_r5_g4,2570.0,0,0,0,False,принято
+synthetic_r5_g4,2580.0,0,0,0,False,принято
+synthetic_r5_g4,2590.0,0,0,0,False,принято
+synthetic_r5_g4,2600.0,0,0,0,False,принято
+synthetic_r5_g4,2610.0,0,0,0,False,принято
+synthetic_r5_g4,2620.0,0,0,0,False,принято
+synthetic_r5_g4,2630.0,0,0,0,False,принято
+synthetic_r5_g4,2640.0,0,0,0,False,принято
+synthetic_r5_g4,2650.0,0,0,0,False,принято
+synthetic_r5_g4,2660.0,0,0,0,False,принято
+synthetic_r5_g4,2670.0,0,0,0,False,принято
+synthetic_r5_g4,2680.0,0,0,0,False,принято
+synthetic_r5_g4,2690.0,0,0,0,False,принято
+synthetic_r5_g4,2700.0,0,0,0,False,принято
+synthetic_r5_g4,2710.0,0,0,0,False,принято
+synthetic_r5_g4,2720.0,0,0,0,False,принято
+synthetic_r5_g4,2730.0,0,0,0,False,принято
+synthetic_r5_g4,2740.0,0,0,0,False,принято
+synthetic_r5_g4,2750.0,0,0,0,False,принято
+synthetic_r5_g4,2760.0,0,0,0,False,принято
+synthetic_r5_g4,2770.0,0,0,0,False,принято
+synthetic_r5_g4,2780.0,0,0,0,False,принято
+synthetic_r5_g4,2790.0,0,0,0,False,принято
+synthetic_r5_g4,2800.0,0,0,0,False,принято
+synthetic_r5_g4,2810.0,0,0,0,False,принято
+synthetic_r5_g4,2820.0,0,0,0,False,принято
+synthetic_r5_g4,2830.0,0,0,0,False,принято
+synthetic_r5_g4,2840.0,0,0,0,False,принято
+synthetic_r5_g4,2850.0,0,0,0,False,принято
+synthetic_r5_g4,2860.0,0,0,0,False,принято
+synthetic_r5_g4,2870.0,0,0,0,False,принято
+synthetic_r5_g4,2880.0,0,0,0,False,принято
+synthetic_r5_g4,2890.0,0,0,0,False,принято
+synthetic_r5_g4,2900.0,0,0,0,False,принято
+synthetic_r5_g4,2910.0,0,0,0,False,принято
+synthetic_r5_g4,2920.0,0,0,0,False,принято
+synthetic_r5_g4,2930.0,0,0,0,False,принято
+synthetic_r5_g4,2940.0,0,0,0,False,принято
+synthetic_r5_g4,2950.0,0,0,0,False,принято
+synthetic_r5_g4,2960.0,0,0,0,False,принято
+synthetic_r5_g4,2970.0,0,0,0,False,принято
+synthetic_r5_g4,2980.0,0,0,0,False,принято
+synthetic_r5_g4,2990.0,0,0,0,False,принято
+synthetic_r5_g4,3000.0,0,0,0,False,принято
+synthetic_r5_g5,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g5,60.0,0,0,0,False,принято
+synthetic_r5_g5,70.0,0,0,0,False,принято
+synthetic_r5_g5,80.0,0,0,0,False,принято
+synthetic_r5_g5,90.0,0,0,0,False,принято
+synthetic_r5_g5,100.0,0,0,0,False,принято
+synthetic_r5_g5,110.0,0,0,0,False,принято
+synthetic_r5_g5,120.0,0,0,0,False,принято
+synthetic_r5_g5,130.0,0,0,0,False,принято
+synthetic_r5_g5,140.0,0,0,0,False,принято
+synthetic_r5_g5,150.0,0,0,0,False,принято
+synthetic_r5_g5,160.0,0,0,0,False,принято
+synthetic_r5_g5,170.0,0,0,0,False,принято
+synthetic_r5_g5,180.0,0,0,0,False,принято
+synthetic_r5_g5,190.0,0,0,0,False,принято
+synthetic_r5_g5,200.0,0,0,0,False,принято
+synthetic_r5_g5,210.0,0,0,0,False,принято
+synthetic_r5_g5,220.0,0,0,0,False,принято
+synthetic_r5_g5,230.0,0,0,0,False,принято
+synthetic_r5_g5,240.0,0,0,0,False,принято
+synthetic_r5_g5,250.0,0,0,0,False,принято
+synthetic_r5_g5,260.0,0,0,0,False,принято
+synthetic_r5_g5,270.0,0,0,0,False,принято
+synthetic_r5_g5,280.0,0,0,0,False,принято
+synthetic_r5_g5,290.0,0,0,0,False,принято
+synthetic_r5_g5,300.0,0,0,0,False,принято
+synthetic_r5_g5,310.0,0,0,0,False,принято
+synthetic_r5_g5,320.0,0,0,0,False,принято
+synthetic_r5_g5,330.0,0,0,0,False,принято
+synthetic_r5_g5,340.0,0,0,0,False,принято
+synthetic_r5_g5,350.0,0,0,0,False,принято
+synthetic_r5_g5,360.0,0,0,0,False,принято
+synthetic_r5_g5,370.0,0,0,0,False,принято
+synthetic_r5_g5,380.0,0,0,0,False,принято
+synthetic_r5_g5,390.0,0,0,0,False,принято
+synthetic_r5_g5,400.0,0,0,0,False,принято
+synthetic_r5_g5,410.0,0,0,0,False,принято
+synthetic_r5_g5,420.0,0,0,0,False,принято
+synthetic_r5_g5,430.0,0,0,0,False,принято
+synthetic_r5_g5,440.0,0,0,0,False,принято
+synthetic_r5_g5,450.0,0,0,0,False,принято
+synthetic_r5_g5,460.0,0,0,0,False,принято
+synthetic_r5_g5,470.0,0,0,0,False,принято
+synthetic_r5_g5,480.0,0,0,0,False,принято
+synthetic_r5_g5,490.0,0,0,0,False,принято
+synthetic_r5_g5,500.0,0,0,0,False,принято
+synthetic_r5_g5,510.0,5,0,0,False,принято
+synthetic_r5_g5,520.0,5,2,-1,True,низкая уверенность
+synthetic_r5_g5,530.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,540.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,550.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,560.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,570.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,580.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,590.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,600.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,610.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,620.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,630.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,640.0,5,5,5,False,принято
+synthetic_r5_g5,650.0,5,5,5,False,принято
+synthetic_r5_g5,660.0,5,5,5,False,принято
+synthetic_r5_g5,670.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,680.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,690.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,700.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,710.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,720.0,5,1,1,False,принято
+synthetic_r5_g5,730.0,5,1,1,False,принято
+synthetic_r5_g5,740.0,5,1,1,False,принято
+synthetic_r5_g5,750.0,5,1,1,False,принято
+synthetic_r5_g5,760.0,5,1,1,False,принято
+synthetic_r5_g5,770.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,780.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,790.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,800.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,810.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,820.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,830.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,840.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,850.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,860.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,870.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,880.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,890.0,5,1,1,False,принято
+synthetic_r5_g5,900.0,5,1,1,False,принято
+synthetic_r5_g5,910.0,5,1,1,False,принято
+synthetic_r5_g5,920.0,5,1,1,False,принято
+synthetic_r5_g5,930.0,5,1,1,False,принято
+synthetic_r5_g5,940.0,5,1,1,False,принято
+synthetic_r5_g5,950.0,5,1,1,False,принято
+synthetic_r5_g5,960.0,5,1,1,False,принято
+synthetic_r5_g5,970.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,980.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,990.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1000.0,5,1,1,False,принято
+synthetic_r5_g5,1010.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1020.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1030.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1040.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1050.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1060.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1070.0,5,3,-1,True,низкая уверенность
+synthetic_r5_g5,1080.0,5,3,-1,True,низкая уверенность
+synthetic_r5_g5,1090.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1100.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1110.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1120.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1130.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1140.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1150.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1160.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1170.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1180.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1190.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1200.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1210.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1220.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1230.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1240.0,5,3,-1,True,низкая уверенность
+synthetic_r5_g5,1250.0,5,3,-1,True,низкая уверенность
+synthetic_r5_g5,1260.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1270.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1280.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1290.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1300.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1310.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1320.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1330.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1340.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1350.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1360.0,5,5,5,False,принято
+synthetic_r5_g5,1370.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1380.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1390.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1400.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1410.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1420.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1430.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1440.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1450.0,5,5,5,False,принято
+synthetic_r5_g5,1460.0,5,5,5,False,принято
+synthetic_r5_g5,1470.0,5,5,5,False,принято
+synthetic_r5_g5,1480.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1490.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1500.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1510.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1520.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1530.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1540.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1550.0,5,1,1,False,принято
+synthetic_r5_g5,1560.0,5,1,1,False,принято
+synthetic_r5_g5,1570.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1580.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1590.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1600.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1610.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1620.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1630.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1640.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1650.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1660.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1670.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1680.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1690.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1700.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1710.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1720.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1730.0,5,5,5,False,принято
+synthetic_r5_g5,1740.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1750.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1760.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1770.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1780.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1790.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1800.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1810.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1820.0,5,4,-1,True,ожидание подтверждения
+synthetic_r5_g5,1830.0,5,4,4,False,принято
+synthetic_r5_g5,1840.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1850.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1860.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,1870.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,1880.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1890.0,5,1,1,False,принято
+synthetic_r5_g5,1900.0,5,1,1,False,принято
+synthetic_r5_g5,1910.0,5,1,1,False,принято
+synthetic_r5_g5,1920.0,5,1,1,False,принято
+synthetic_r5_g5,1930.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,1940.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,1950.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,1960.0,5,5,5,False,принято
+synthetic_r5_g5,1970.0,5,5,5,False,принято
+synthetic_r5_g5,1980.0,5,5,5,False,принято
+synthetic_r5_g5,1990.0,5,5,5,False,принято
+synthetic_r5_g5,2000.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2010.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,2020.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2030.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2040.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2050.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2060.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2070.0,5,1,-1,True,ожидание подтверждения
+synthetic_r5_g5,2080.0,5,1,1,False,принято
+synthetic_r5_g5,2090.0,5,1,1,False,принято
+synthetic_r5_g5,2100.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,2110.0,5,1,-1,True,низкая уверенность
+synthetic_r5_g5,2120.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2130.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,2140.0,5,5,5,False,принято
+synthetic_r5_g5,2150.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2160.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2170.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2180.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2190.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2200.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2210.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2220.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2230.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2240.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2250.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2260.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2270.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2280.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2290.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2300.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2310.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2320.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2330.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2340.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2350.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2360.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2370.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2380.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2390.0,5,4,-1,True,низкая уверенность
+synthetic_r5_g5,2400.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,2410.0,5,5,5,False,принято
+synthetic_r5_g5,2420.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2430.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2440.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2450.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2460.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,2470.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2480.0,5,5,-1,True,низкая уверенность
+synthetic_r5_g5,2490.0,5,5,-1,True,ожидание подтверждения
+synthetic_r5_g5,2500.0,5,5,5,False,принято
+synthetic_r5_g5,2510.0,0,4,-1,True,низкая уверенность
+synthetic_r5_g5,2520.0,0,3,-1,True,низкая уверенность
+synthetic_r5_g5,2530.0,0,3,-1,True,низкая уверенность
+synthetic_r5_g5,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r5_g5,2550.0,0,0,0,False,принято
+synthetic_r5_g5,2560.0,0,0,0,False,принято
+synthetic_r5_g5,2570.0,0,0,0,False,принято
+synthetic_r5_g5,2580.0,0,0,0,False,принято
+synthetic_r5_g5,2590.0,0,0,0,False,принято
+synthetic_r5_g5,2600.0,0,0,0,False,принято
+synthetic_r5_g5,2610.0,0,0,0,False,принято
+synthetic_r5_g5,2620.0,0,0,0,False,принято
+synthetic_r5_g5,2630.0,0,0,0,False,принято
+synthetic_r5_g5,2640.0,0,0,0,False,принято
+synthetic_r5_g5,2650.0,0,0,0,False,принято
+synthetic_r5_g5,2660.0,0,0,0,False,принято
+synthetic_r5_g5,2670.0,0,0,0,False,принято
+synthetic_r5_g5,2680.0,0,0,0,False,принято
+synthetic_r5_g5,2690.0,0,0,0,False,принято
+synthetic_r5_g5,2700.0,0,0,0,False,принято
+synthetic_r5_g5,2710.0,0,0,0,False,принято
+synthetic_r5_g5,2720.0,0,0,0,False,принято
+synthetic_r5_g5,2730.0,0,0,0,False,принято
+synthetic_r5_g5,2740.0,0,0,0,False,принято
+synthetic_r5_g5,2750.0,0,0,0,False,принято
+synthetic_r5_g5,2760.0,0,0,0,False,принято
+synthetic_r5_g5,2770.0,0,0,0,False,принято
+synthetic_r5_g5,2780.0,0,0,0,False,принято
+synthetic_r5_g5,2790.0,0,0,0,False,принято
+synthetic_r5_g5,2800.0,0,0,0,False,принято
+synthetic_r5_g5,2810.0,0,0,0,False,принято
+synthetic_r5_g5,2820.0,0,0,0,False,принято
+synthetic_r5_g5,2830.0,0,0,0,False,принято
+synthetic_r5_g5,2840.0,0,0,0,False,принято
+synthetic_r5_g5,2850.0,0,0,0,False,принято
+synthetic_r5_g5,2860.0,0,0,0,False,принято
+synthetic_r5_g5,2870.0,0,0,0,False,принято
+synthetic_r5_g5,2880.0,0,0,0,False,принято
+synthetic_r5_g5,2890.0,0,0,0,False,принято
+synthetic_r5_g5,2900.0,0,0,0,False,принято
+synthetic_r5_g5,2910.0,0,0,0,False,принято
+synthetic_r5_g5,2920.0,0,0,0,False,принято
+synthetic_r5_g5,2930.0,0,0,0,False,принято
+synthetic_r5_g5,2940.0,0,0,0,False,принято
+synthetic_r5_g5,2950.0,0,0,0,False,принято
+synthetic_r5_g5,2960.0,0,0,0,False,принято
+synthetic_r5_g5,2970.0,0,0,0,False,принято
+synthetic_r5_g5,2980.0,0,0,0,False,принято
+synthetic_r5_g5,2990.0,0,0,0,False,принято
+synthetic_r5_g5,3000.0,0,0,0,False,принято
+synthetic_r6_g1,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g1,60.0,0,0,0,False,принято
+synthetic_r6_g1,70.0,0,0,0,False,принято
+synthetic_r6_g1,80.0,0,0,0,False,принято
+synthetic_r6_g1,90.0,0,0,0,False,принято
+synthetic_r6_g1,100.0,0,0,0,False,принято
+synthetic_r6_g1,110.0,0,0,0,False,принято
+synthetic_r6_g1,120.0,0,0,0,False,принято
+synthetic_r6_g1,130.0,0,0,0,False,принято
+synthetic_r6_g1,140.0,0,0,0,False,принято
+synthetic_r6_g1,150.0,0,0,0,False,принято
+synthetic_r6_g1,160.0,0,0,0,False,принято
+synthetic_r6_g1,170.0,0,0,0,False,принято
+synthetic_r6_g1,180.0,0,0,0,False,принято
+synthetic_r6_g1,190.0,0,0,0,False,принято
+synthetic_r6_g1,200.0,0,0,0,False,принято
+synthetic_r6_g1,210.0,0,0,0,False,принято
+synthetic_r6_g1,220.0,0,0,0,False,принято
+synthetic_r6_g1,230.0,0,0,0,False,принято
+synthetic_r6_g1,240.0,0,0,0,False,принято
+synthetic_r6_g1,250.0,0,0,0,False,принято
+synthetic_r6_g1,260.0,0,0,0,False,принято
+synthetic_r6_g1,270.0,0,0,0,False,принято
+synthetic_r6_g1,280.0,0,0,0,False,принято
+synthetic_r6_g1,290.0,0,0,0,False,принято
+synthetic_r6_g1,300.0,0,0,0,False,принято
+synthetic_r6_g1,310.0,0,0,0,False,принято
+synthetic_r6_g1,320.0,0,0,0,False,принято
+synthetic_r6_g1,330.0,0,0,0,False,принято
+synthetic_r6_g1,340.0,0,0,0,False,принято
+synthetic_r6_g1,350.0,0,0,0,False,принято
+synthetic_r6_g1,360.0,0,0,0,False,принято
+synthetic_r6_g1,370.0,0,0,0,False,принято
+synthetic_r6_g1,380.0,0,0,0,False,принято
+synthetic_r6_g1,390.0,0,0,0,False,принято
+synthetic_r6_g1,400.0,0,0,0,False,принято
+synthetic_r6_g1,410.0,0,0,0,False,принято
+synthetic_r6_g1,420.0,0,0,0,False,принято
+synthetic_r6_g1,430.0,0,0,0,False,принято
+synthetic_r6_g1,440.0,0,0,0,False,принято
+synthetic_r6_g1,450.0,0,0,0,False,принято
+synthetic_r6_g1,460.0,0,0,0,False,принято
+synthetic_r6_g1,470.0,0,0,0,False,принято
+synthetic_r6_g1,480.0,0,0,0,False,принято
+synthetic_r6_g1,490.0,0,0,0,False,принято
+synthetic_r6_g1,500.0,0,0,0,False,принято
+synthetic_r6_g1,510.0,1,0,0,False,принято
+synthetic_r6_g1,520.0,1,0,0,False,принято
+synthetic_r6_g1,530.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,540.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,550.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,560.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,570.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,580.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,590.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,600.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,610.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,620.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,630.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,640.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,650.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,660.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,670.0,1,1,1,False,принято
+synthetic_r6_g1,680.0,1,1,1,False,принято
+synthetic_r6_g1,690.0,1,1,1,False,принято
+synthetic_r6_g1,700.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,710.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,720.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,730.0,1,1,1,False,принято
+synthetic_r6_g1,740.0,1,1,1,False,принято
+synthetic_r6_g1,750.0,1,1,1,False,принято
+synthetic_r6_g1,760.0,1,1,1,False,принято
+synthetic_r6_g1,770.0,1,1,1,False,принято
+synthetic_r6_g1,780.0,1,1,1,False,принято
+synthetic_r6_g1,790.0,1,1,1,False,принято
+synthetic_r6_g1,800.0,1,1,1,False,принято
+synthetic_r6_g1,810.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,820.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,830.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,840.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,850.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,860.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,870.0,1,1,1,False,принято
+synthetic_r6_g1,880.0,1,1,1,False,принято
+synthetic_r6_g1,890.0,1,1,1,False,принято
+synthetic_r6_g1,900.0,1,1,1,False,принято
+synthetic_r6_g1,910.0,1,1,1,False,принято
+synthetic_r6_g1,920.0,1,1,1,False,принято
+synthetic_r6_g1,930.0,1,1,1,False,принято
+synthetic_r6_g1,940.0,1,1,1,False,принято
+synthetic_r6_g1,950.0,1,1,1,False,принято
+synthetic_r6_g1,960.0,1,1,1,False,принято
+synthetic_r6_g1,970.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,980.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,990.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1000.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,1010.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,1020.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1030.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,1040.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1050.0,1,1,1,False,принято
+synthetic_r6_g1,1060.0,1,1,1,False,принято
+synthetic_r6_g1,1070.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1080.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1090.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1100.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1110.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1120.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1130.0,1,1,1,False,принято
+synthetic_r6_g1,1140.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1150.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1160.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1170.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1180.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1190.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1200.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1210.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1220.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1230.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1240.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1250.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1260.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,1270.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1280.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1290.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1300.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1310.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1320.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1330.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1340.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,1350.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1360.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1370.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1380.0,1,1,1,False,принято
+synthetic_r6_g1,1390.0,1,1,1,False,принято
+synthetic_r6_g1,1400.0,1,1,1,False,принято
+synthetic_r6_g1,1410.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1420.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1430.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1440.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1450.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,1460.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,1470.0,1,3,3,False,принято
+synthetic_r6_g1,1480.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1490.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1500.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1510.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1520.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1530.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1540.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1550.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1560.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1570.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1580.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1590.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1600.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1610.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1620.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1630.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1640.0,1,1,1,False,принято
+synthetic_r6_g1,1650.0,1,1,1,False,принято
+synthetic_r6_g1,1660.0,1,1,1,False,принято
+synthetic_r6_g1,1670.0,1,1,1,False,принято
+synthetic_r6_g1,1680.0,1,1,1,False,принято
+synthetic_r6_g1,1690.0,1,1,1,False,принято
+synthetic_r6_g1,1700.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1710.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1720.0,1,1,1,False,принято
+synthetic_r6_g1,1730.0,1,1,1,False,принято
+synthetic_r6_g1,1740.0,1,1,1,False,принято
+synthetic_r6_g1,1750.0,1,1,1,False,принято
+synthetic_r6_g1,1760.0,1,1,1,False,принято
+synthetic_r6_g1,1770.0,1,1,1,False,принято
+synthetic_r6_g1,1780.0,1,1,1,False,принято
+synthetic_r6_g1,1790.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1800.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1810.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1820.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,1830.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,1840.0,1,1,1,False,принято
+synthetic_r6_g1,1850.0,1,1,1,False,принято
+synthetic_r6_g1,1860.0,1,1,1,False,принято
+synthetic_r6_g1,1870.0,1,1,1,False,принято
+synthetic_r6_g1,1880.0,1,1,1,False,принято
+synthetic_r6_g1,1890.0,1,1,1,False,принято
+synthetic_r6_g1,1900.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1910.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,1920.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1930.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1940.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1950.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1960.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1970.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1980.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,1990.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2000.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2010.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,2020.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2030.0,1,5,-1,True,ожидание подтверждения
+synthetic_r6_g1,2040.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,2050.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,2060.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,2070.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2080.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,2090.0,1,1,1,False,принято
+synthetic_r6_g1,2100.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2110.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2120.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2130.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2140.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,2150.0,1,1,1,False,принято
+synthetic_r6_g1,2160.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2170.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2180.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,2190.0,1,1,1,False,принято
+synthetic_r6_g1,2200.0,1,1,1,False,принято
+synthetic_r6_g1,2210.0,1,1,1,False,принято
+synthetic_r6_g1,2220.0,1,1,1,False,принято
+synthetic_r6_g1,2230.0,1,1,1,False,принято
+synthetic_r6_g1,2240.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2250.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2260.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2270.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2280.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2290.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2300.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2310.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,2320.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2330.0,1,1,-1,True,ожидание подтверждения
+synthetic_r6_g1,2340.0,1,1,1,False,принято
+synthetic_r6_g1,2350.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2360.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2370.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,2380.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2390.0,1,5,-1,True,низкая уверенность
+synthetic_r6_g1,2400.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2410.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2420.0,1,1,-1,True,низкая уверенность
+synthetic_r6_g1,2430.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2440.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2450.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2460.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2470.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,2480.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2490.0,1,3,-1,True,низкая уверенность
+synthetic_r6_g1,2500.0,1,3,-1,True,ожидание подтверждения
+synthetic_r6_g1,2510.0,0,3,3,False,принято
+synthetic_r6_g1,2520.0,0,2,-1,True,низкая уверенность
+synthetic_r6_g1,2530.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g1,2540.0,0,0,0,False,принято
+synthetic_r6_g1,2550.0,0,0,0,False,принято
+synthetic_r6_g1,2560.0,0,0,0,False,принято
+synthetic_r6_g1,2570.0,0,0,0,False,принято
+synthetic_r6_g1,2580.0,0,0,0,False,принято
+synthetic_r6_g1,2590.0,0,0,0,False,принято
+synthetic_r6_g1,2600.0,0,0,0,False,принято
+synthetic_r6_g1,2610.0,0,0,0,False,принято
+synthetic_r6_g1,2620.0,0,0,0,False,принято
+synthetic_r6_g1,2630.0,0,0,0,False,принято
+synthetic_r6_g1,2640.0,0,0,0,False,принято
+synthetic_r6_g1,2650.0,0,0,0,False,принято
+synthetic_r6_g1,2660.0,0,0,0,False,принято
+synthetic_r6_g1,2670.0,0,0,0,False,принято
+synthetic_r6_g1,2680.0,0,0,0,False,принято
+synthetic_r6_g1,2690.0,0,0,0,False,принято
+synthetic_r6_g1,2700.0,0,0,0,False,принято
+synthetic_r6_g1,2710.0,0,0,0,False,принято
+synthetic_r6_g1,2720.0,0,0,0,False,принято
+synthetic_r6_g1,2730.0,0,0,0,False,принято
+synthetic_r6_g1,2740.0,0,0,0,False,принято
+synthetic_r6_g1,2750.0,0,0,0,False,принято
+synthetic_r6_g1,2760.0,0,0,0,False,принято
+synthetic_r6_g1,2770.0,0,0,0,False,принято
+synthetic_r6_g1,2780.0,0,0,0,False,принято
+synthetic_r6_g1,2790.0,0,0,0,False,принято
+synthetic_r6_g1,2800.0,0,0,0,False,принято
+synthetic_r6_g1,2810.0,0,0,0,False,принято
+synthetic_r6_g1,2820.0,0,0,0,False,принято
+synthetic_r6_g1,2830.0,0,0,0,False,принято
+synthetic_r6_g1,2840.0,0,0,0,False,принято
+synthetic_r6_g1,2850.0,0,0,0,False,принято
+synthetic_r6_g1,2860.0,0,0,0,False,принято
+synthetic_r6_g1,2870.0,0,0,0,False,принято
+synthetic_r6_g1,2880.0,0,0,0,False,принято
+synthetic_r6_g1,2890.0,0,0,0,False,принято
+synthetic_r6_g1,2900.0,0,0,0,False,принято
+synthetic_r6_g1,2910.0,0,0,0,False,принято
+synthetic_r6_g1,2920.0,0,0,0,False,принято
+synthetic_r6_g1,2930.0,0,0,0,False,принято
+synthetic_r6_g1,2940.0,0,0,0,False,принято
+synthetic_r6_g1,2950.0,0,0,0,False,принято
+synthetic_r6_g1,2960.0,0,0,0,False,принято
+synthetic_r6_g1,2970.0,0,0,0,False,принято
+synthetic_r6_g1,2980.0,0,0,0,False,принято
+synthetic_r6_g1,2990.0,0,0,0,False,принято
+synthetic_r6_g1,3000.0,0,0,0,False,принято
+synthetic_r6_g2,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g2,60.0,0,0,0,False,принято
+synthetic_r6_g2,70.0,0,0,0,False,принято
+synthetic_r6_g2,80.0,0,0,0,False,принято
+synthetic_r6_g2,90.0,0,0,0,False,принято
+synthetic_r6_g2,100.0,0,0,0,False,принято
+synthetic_r6_g2,110.0,0,0,0,False,принято
+synthetic_r6_g2,120.0,0,0,0,False,принято
+synthetic_r6_g2,130.0,0,0,0,False,принято
+synthetic_r6_g2,140.0,0,0,0,False,принято
+synthetic_r6_g2,150.0,0,0,0,False,принято
+synthetic_r6_g2,160.0,0,0,0,False,принято
+synthetic_r6_g2,170.0,0,0,0,False,принято
+synthetic_r6_g2,180.0,0,0,0,False,принято
+synthetic_r6_g2,190.0,0,0,0,False,принято
+synthetic_r6_g2,200.0,0,0,0,False,принято
+synthetic_r6_g2,210.0,0,0,0,False,принято
+synthetic_r6_g2,220.0,0,0,0,False,принято
+synthetic_r6_g2,230.0,0,0,0,False,принято
+synthetic_r6_g2,240.0,0,0,0,False,принято
+synthetic_r6_g2,250.0,0,0,0,False,принято
+synthetic_r6_g2,260.0,0,0,0,False,принято
+synthetic_r6_g2,270.0,0,0,0,False,принято
+synthetic_r6_g2,280.0,0,0,0,False,принято
+synthetic_r6_g2,290.0,0,0,0,False,принято
+synthetic_r6_g2,300.0,0,0,0,False,принято
+synthetic_r6_g2,310.0,0,0,0,False,принято
+synthetic_r6_g2,320.0,0,0,0,False,принято
+synthetic_r6_g2,330.0,0,0,0,False,принято
+synthetic_r6_g2,340.0,0,0,0,False,принято
+synthetic_r6_g2,350.0,0,0,0,False,принято
+synthetic_r6_g2,360.0,0,0,0,False,принято
+synthetic_r6_g2,370.0,0,0,0,False,принято
+synthetic_r6_g2,380.0,0,0,0,False,принято
+synthetic_r6_g2,390.0,0,0,0,False,принято
+synthetic_r6_g2,400.0,0,0,0,False,принято
+synthetic_r6_g2,410.0,0,0,0,False,принято
+synthetic_r6_g2,420.0,0,0,0,False,принято
+synthetic_r6_g2,430.0,0,0,0,False,принято
+synthetic_r6_g2,440.0,0,0,0,False,принято
+synthetic_r6_g2,450.0,0,0,0,False,принято
+synthetic_r6_g2,460.0,0,0,0,False,принято
+synthetic_r6_g2,470.0,0,0,0,False,принято
+synthetic_r6_g2,480.0,0,0,0,False,принято
+synthetic_r6_g2,490.0,0,0,0,False,принято
+synthetic_r6_g2,500.0,0,0,0,False,принято
+synthetic_r6_g2,510.0,2,0,0,False,принято
+synthetic_r6_g2,520.0,2,0,-1,True,низкая уверенность
+synthetic_r6_g2,530.0,2,2,-1,True,ожидание подтверждения
+synthetic_r6_g2,540.0,2,2,2,False,принято
+synthetic_r6_g2,550.0,2,2,2,False,принято
+synthetic_r6_g2,560.0,2,2,2,False,принято
+synthetic_r6_g2,570.0,2,2,2,False,принято
+synthetic_r6_g2,580.0,2,2,2,False,принято
+synthetic_r6_g2,590.0,2,2,2,False,принято
+synthetic_r6_g2,600.0,2,2,2,False,принято
+synthetic_r6_g2,610.0,2,2,2,False,принято
+synthetic_r6_g2,620.0,2,2,2,False,принято
+synthetic_r6_g2,630.0,2,2,2,False,принято
+synthetic_r6_g2,640.0,2,2,2,False,принято
+synthetic_r6_g2,650.0,2,2,2,False,принято
+synthetic_r6_g2,660.0,2,2,2,False,принято
+synthetic_r6_g2,670.0,2,2,2,False,принято
+synthetic_r6_g2,680.0,2,2,2,False,принято
+synthetic_r6_g2,690.0,2,2,2,False,принято
+synthetic_r6_g2,700.0,2,2,2,False,принято
+synthetic_r6_g2,710.0,2,2,2,False,принято
+synthetic_r6_g2,720.0,2,2,2,False,принято
+synthetic_r6_g2,730.0,2,2,2,False,принято
+synthetic_r6_g2,740.0,2,2,2,False,принято
+synthetic_r6_g2,750.0,2,2,2,False,принято
+synthetic_r6_g2,760.0,2,2,2,False,принято
+synthetic_r6_g2,770.0,2,2,2,False,принято
+synthetic_r6_g2,780.0,2,2,2,False,принято
+synthetic_r6_g2,790.0,2,2,2,False,принято
+synthetic_r6_g2,800.0,2,2,2,False,принято
+synthetic_r6_g2,810.0,2,2,2,False,принято
+synthetic_r6_g2,820.0,2,2,2,False,принято
+synthetic_r6_g2,830.0,2,2,2,False,принято
+synthetic_r6_g2,840.0,2,2,2,False,принято
+synthetic_r6_g2,850.0,2,2,2,False,принято
+synthetic_r6_g2,860.0,2,2,2,False,принято
+synthetic_r6_g2,870.0,2,2,2,False,принято
+synthetic_r6_g2,880.0,2,2,2,False,принято
+synthetic_r6_g2,890.0,2,2,2,False,принято
+synthetic_r6_g2,900.0,2,2,2,False,принято
+synthetic_r6_g2,910.0,2,2,2,False,принято
+synthetic_r6_g2,920.0,2,2,2,False,принято
+synthetic_r6_g2,930.0,2,2,2,False,принято
+synthetic_r6_g2,940.0,2,2,2,False,принято
+synthetic_r6_g2,950.0,2,2,2,False,принято
+synthetic_r6_g2,960.0,2,2,2,False,принято
+synthetic_r6_g2,970.0,2,2,2,False,принято
+synthetic_r6_g2,980.0,2,2,2,False,принято
+synthetic_r6_g2,990.0,2,2,2,False,принято
+synthetic_r6_g2,1000.0,2,2,2,False,принято
+synthetic_r6_g2,1010.0,2,2,2,False,принято
+synthetic_r6_g2,1020.0,2,2,2,False,принято
+synthetic_r6_g2,1030.0,2,2,2,False,принято
+synthetic_r6_g2,1040.0,2,2,2,False,принято
+synthetic_r6_g2,1050.0,2,2,2,False,принято
+synthetic_r6_g2,1060.0,2,2,2,False,принято
+synthetic_r6_g2,1070.0,2,2,2,False,принято
+synthetic_r6_g2,1080.0,2,2,2,False,принято
+synthetic_r6_g2,1090.0,2,2,2,False,принято
+synthetic_r6_g2,1100.0,2,2,2,False,принято
+synthetic_r6_g2,1110.0,2,2,2,False,принято
+synthetic_r6_g2,1120.0,2,2,2,False,принято
+synthetic_r6_g2,1130.0,2,2,2,False,принято
+synthetic_r6_g2,1140.0,2,2,2,False,принято
+synthetic_r6_g2,1150.0,2,2,2,False,принято
+synthetic_r6_g2,1160.0,2,2,2,False,принято
+synthetic_r6_g2,1170.0,2,2,2,False,принято
+synthetic_r6_g2,1180.0,2,2,2,False,принято
+synthetic_r6_g2,1190.0,2,2,2,False,принято
+synthetic_r6_g2,1200.0,2,2,2,False,принято
+synthetic_r6_g2,1210.0,2,2,2,False,принято
+synthetic_r6_g2,1220.0,2,2,2,False,принято
+synthetic_r6_g2,1230.0,2,2,2,False,принято
+synthetic_r6_g2,1240.0,2,2,2,False,принято
+synthetic_r6_g2,1250.0,2,2,2,False,принято
+synthetic_r6_g2,1260.0,2,2,2,False,принято
+synthetic_r6_g2,1270.0,2,2,2,False,принято
+synthetic_r6_g2,1280.0,2,2,2,False,принято
+synthetic_r6_g2,1290.0,2,2,2,False,принято
+synthetic_r6_g2,1300.0,2,2,2,False,принято
+synthetic_r6_g2,1310.0,2,2,2,False,принято
+synthetic_r6_g2,1320.0,2,2,2,False,принято
+synthetic_r6_g2,1330.0,2,2,2,False,принято
+synthetic_r6_g2,1340.0,2,2,2,False,принято
+synthetic_r6_g2,1350.0,2,2,2,False,принято
+synthetic_r6_g2,1360.0,2,2,2,False,принято
+synthetic_r6_g2,1370.0,2,2,2,False,принято
+synthetic_r6_g2,1380.0,2,2,2,False,принято
+synthetic_r6_g2,1390.0,2,2,2,False,принято
+synthetic_r6_g2,1400.0,2,2,2,False,принято
+synthetic_r6_g2,1410.0,2,2,2,False,принято
+synthetic_r6_g2,1420.0,2,2,2,False,принято
+synthetic_r6_g2,1430.0,2,2,2,False,принято
+synthetic_r6_g2,1440.0,2,2,2,False,принято
+synthetic_r6_g2,1450.0,2,2,2,False,принято
+synthetic_r6_g2,1460.0,2,2,2,False,принято
+synthetic_r6_g2,1470.0,2,2,2,False,принято
+synthetic_r6_g2,1480.0,2,2,2,False,принято
+synthetic_r6_g2,1490.0,2,2,2,False,принято
+synthetic_r6_g2,1500.0,2,2,2,False,принято
+synthetic_r6_g2,1510.0,2,2,2,False,принято
+synthetic_r6_g2,1520.0,2,2,2,False,принято
+synthetic_r6_g2,1530.0,2,2,2,False,принято
+synthetic_r6_g2,1540.0,2,2,2,False,принято
+synthetic_r6_g2,1550.0,2,2,2,False,принято
+synthetic_r6_g2,1560.0,2,2,2,False,принято
+synthetic_r6_g2,1570.0,2,2,2,False,принято
+synthetic_r6_g2,1580.0,2,2,2,False,принято
+synthetic_r6_g2,1590.0,2,2,2,False,принято
+synthetic_r6_g2,1600.0,2,2,2,False,принято
+synthetic_r6_g2,1610.0,2,2,2,False,принято
+synthetic_r6_g2,1620.0,2,2,2,False,принято
+synthetic_r6_g2,1630.0,2,2,2,False,принято
+synthetic_r6_g2,1640.0,2,2,2,False,принято
+synthetic_r6_g2,1650.0,2,2,2,False,принято
+synthetic_r6_g2,1660.0,2,2,2,False,принято
+synthetic_r6_g2,1670.0,2,2,2,False,принято
+synthetic_r6_g2,1680.0,2,2,2,False,принято
+synthetic_r6_g2,1690.0,2,2,2,False,принято
+synthetic_r6_g2,1700.0,2,2,2,False,принято
+synthetic_r6_g2,1710.0,2,2,2,False,принято
+synthetic_r6_g2,1720.0,2,2,2,False,принято
+synthetic_r6_g2,1730.0,2,2,2,False,принято
+synthetic_r6_g2,1740.0,2,2,2,False,принято
+synthetic_r6_g2,1750.0,2,2,2,False,принято
+synthetic_r6_g2,1760.0,2,2,2,False,принято
+synthetic_r6_g2,1770.0,2,2,2,False,принято
+synthetic_r6_g2,1780.0,2,2,2,False,принято
+synthetic_r6_g2,1790.0,2,2,2,False,принято
+synthetic_r6_g2,1800.0,2,2,2,False,принято
+synthetic_r6_g2,1810.0,2,2,2,False,принято
+synthetic_r6_g2,1820.0,2,2,2,False,принято
+synthetic_r6_g2,1830.0,2,2,2,False,принято
+synthetic_r6_g2,1840.0,2,2,2,False,принято
+synthetic_r6_g2,1850.0,2,2,2,False,принято
+synthetic_r6_g2,1860.0,2,2,2,False,принято
+synthetic_r6_g2,1870.0,2,2,2,False,принято
+synthetic_r6_g2,1880.0,2,2,2,False,принято
+synthetic_r6_g2,1890.0,2,2,2,False,принято
+synthetic_r6_g2,1900.0,2,2,2,False,принято
+synthetic_r6_g2,1910.0,2,2,2,False,принято
+synthetic_r6_g2,1920.0,2,2,2,False,принято
+synthetic_r6_g2,1930.0,2,2,2,False,принято
+synthetic_r6_g2,1940.0,2,2,2,False,принято
+synthetic_r6_g2,1950.0,2,2,2,False,принято
+synthetic_r6_g2,1960.0,2,2,2,False,принято
+synthetic_r6_g2,1970.0,2,2,2,False,принято
+synthetic_r6_g2,1980.0,2,2,2,False,принято
+synthetic_r6_g2,1990.0,2,2,2,False,принято
+synthetic_r6_g2,2000.0,2,2,2,False,принято
+synthetic_r6_g2,2010.0,2,2,2,False,принято
+synthetic_r6_g2,2020.0,2,2,2,False,принято
+synthetic_r6_g2,2030.0,2,2,2,False,принято
+synthetic_r6_g2,2040.0,2,2,2,False,принято
+synthetic_r6_g2,2050.0,2,2,2,False,принято
+synthetic_r6_g2,2060.0,2,2,2,False,принято
+synthetic_r6_g2,2070.0,2,2,2,False,принято
+synthetic_r6_g2,2080.0,2,2,2,False,принято
+synthetic_r6_g2,2090.0,2,2,2,False,принято
+synthetic_r6_g2,2100.0,2,2,2,False,принято
+synthetic_r6_g2,2110.0,2,2,2,False,принято
+synthetic_r6_g2,2120.0,2,2,2,False,принято
+synthetic_r6_g2,2130.0,2,2,2,False,принято
+synthetic_r6_g2,2140.0,2,2,2,False,принято
+synthetic_r6_g2,2150.0,2,2,2,False,принято
+synthetic_r6_g2,2160.0,2,2,2,False,принято
+synthetic_r6_g2,2170.0,2,2,2,False,принято
+synthetic_r6_g2,2180.0,2,2,2,False,принято
+synthetic_r6_g2,2190.0,2,2,2,False,принято
+synthetic_r6_g2,2200.0,2,2,2,False,принято
+synthetic_r6_g2,2210.0,2,2,2,False,принято
+synthetic_r6_g2,2220.0,2,2,2,False,принято
+synthetic_r6_g2,2230.0,2,2,2,False,принято
+synthetic_r6_g2,2240.0,2,2,2,False,принято
+synthetic_r6_g2,2250.0,2,2,2,False,принято
+synthetic_r6_g2,2260.0,2,2,2,False,принято
+synthetic_r6_g2,2270.0,2,2,2,False,принято
+synthetic_r6_g2,2280.0,2,2,2,False,принято
+synthetic_r6_g2,2290.0,2,2,2,False,принято
+synthetic_r6_g2,2300.0,2,2,2,False,принято
+synthetic_r6_g2,2310.0,2,2,2,False,принято
+synthetic_r6_g2,2320.0,2,2,2,False,принято
+synthetic_r6_g2,2330.0,2,2,2,False,принято
+synthetic_r6_g2,2340.0,2,2,2,False,принято
+synthetic_r6_g2,2350.0,2,2,2,False,принято
+synthetic_r6_g2,2360.0,2,2,2,False,принято
+synthetic_r6_g2,2370.0,2,2,2,False,принято
+synthetic_r6_g2,2380.0,2,2,2,False,принято
+synthetic_r6_g2,2390.0,2,2,2,False,принято
+synthetic_r6_g2,2400.0,2,2,2,False,принято
+synthetic_r6_g2,2410.0,2,2,2,False,принято
+synthetic_r6_g2,2420.0,2,2,2,False,принято
+synthetic_r6_g2,2430.0,2,2,2,False,принято
+synthetic_r6_g2,2440.0,2,2,2,False,принято
+synthetic_r6_g2,2450.0,2,2,2,False,принято
+synthetic_r6_g2,2460.0,2,2,2,False,принято
+synthetic_r6_g2,2470.0,2,2,2,False,принято
+synthetic_r6_g2,2480.0,2,2,2,False,принято
+synthetic_r6_g2,2490.0,2,2,2,False,принято
+synthetic_r6_g2,2500.0,2,2,2,False,принято
+synthetic_r6_g2,2510.0,0,2,2,False,принято
+synthetic_r6_g2,2520.0,0,2,2,False,принято
+synthetic_r6_g2,2530.0,0,0,-1,True,низкая уверенность
+synthetic_r6_g2,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g2,2550.0,0,0,0,False,принято
+synthetic_r6_g2,2560.0,0,0,0,False,принято
+synthetic_r6_g2,2570.0,0,0,0,False,принято
+synthetic_r6_g2,2580.0,0,0,0,False,принято
+synthetic_r6_g2,2590.0,0,0,0,False,принято
+synthetic_r6_g2,2600.0,0,0,0,False,принято
+synthetic_r6_g2,2610.0,0,0,0,False,принято
+synthetic_r6_g2,2620.0,0,0,0,False,принято
+synthetic_r6_g2,2630.0,0,0,0,False,принято
+synthetic_r6_g2,2640.0,0,0,0,False,принято
+synthetic_r6_g2,2650.0,0,0,0,False,принято
+synthetic_r6_g2,2660.0,0,0,0,False,принято
+synthetic_r6_g2,2670.0,0,0,0,False,принято
+synthetic_r6_g2,2680.0,0,0,0,False,принято
+synthetic_r6_g2,2690.0,0,0,0,False,принято
+synthetic_r6_g2,2700.0,0,0,0,False,принято
+synthetic_r6_g2,2710.0,0,0,0,False,принято
+synthetic_r6_g2,2720.0,0,0,0,False,принято
+synthetic_r6_g2,2730.0,0,0,0,False,принято
+synthetic_r6_g2,2740.0,0,0,0,False,принято
+synthetic_r6_g2,2750.0,0,0,0,False,принято
+synthetic_r6_g2,2760.0,0,0,0,False,принято
+synthetic_r6_g2,2770.0,0,0,0,False,принято
+synthetic_r6_g2,2780.0,0,0,0,False,принято
+synthetic_r6_g2,2790.0,0,0,0,False,принято
+synthetic_r6_g2,2800.0,0,0,0,False,принято
+synthetic_r6_g2,2810.0,0,0,0,False,принято
+synthetic_r6_g2,2820.0,0,0,0,False,принято
+synthetic_r6_g2,2830.0,0,0,0,False,принято
+synthetic_r6_g2,2840.0,0,0,0,False,принято
+synthetic_r6_g2,2850.0,0,0,0,False,принято
+synthetic_r6_g2,2860.0,0,0,0,False,принято
+synthetic_r6_g2,2870.0,0,0,0,False,принято
+synthetic_r6_g2,2880.0,0,0,0,False,принято
+synthetic_r6_g2,2890.0,0,0,0,False,принято
+synthetic_r6_g2,2900.0,0,0,0,False,принято
+synthetic_r6_g2,2910.0,0,0,0,False,принято
+synthetic_r6_g2,2920.0,0,0,0,False,принято
+synthetic_r6_g2,2930.0,0,0,0,False,принято
+synthetic_r6_g2,2940.0,0,0,0,False,принято
+synthetic_r6_g2,2950.0,0,0,0,False,принято
+synthetic_r6_g2,2960.0,0,0,0,False,принято
+synthetic_r6_g2,2970.0,0,0,0,False,принято
+synthetic_r6_g2,2980.0,0,0,0,False,принято
+synthetic_r6_g2,2990.0,0,0,0,False,принято
+synthetic_r6_g2,3000.0,0,0,0,False,принято
+synthetic_r6_g3,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g3,60.0,0,0,0,False,принято
+synthetic_r6_g3,70.0,0,0,0,False,принято
+synthetic_r6_g3,80.0,0,0,0,False,принято
+synthetic_r6_g3,90.0,0,0,0,False,принято
+synthetic_r6_g3,100.0,0,0,0,False,принято
+synthetic_r6_g3,110.0,0,0,0,False,принято
+synthetic_r6_g3,120.0,0,0,0,False,принято
+synthetic_r6_g3,130.0,0,0,0,False,принято
+synthetic_r6_g3,140.0,0,0,0,False,принято
+synthetic_r6_g3,150.0,0,0,0,False,принято
+synthetic_r6_g3,160.0,0,0,0,False,принято
+synthetic_r6_g3,170.0,0,0,0,False,принято
+synthetic_r6_g3,180.0,0,0,0,False,принято
+synthetic_r6_g3,190.0,0,0,0,False,принято
+synthetic_r6_g3,200.0,0,0,0,False,принято
+synthetic_r6_g3,210.0,0,0,0,False,принято
+synthetic_r6_g3,220.0,0,0,0,False,принято
+synthetic_r6_g3,230.0,0,0,0,False,принято
+synthetic_r6_g3,240.0,0,0,0,False,принято
+synthetic_r6_g3,250.0,0,0,0,False,принято
+synthetic_r6_g3,260.0,0,0,0,False,принято
+synthetic_r6_g3,270.0,0,0,0,False,принято
+synthetic_r6_g3,280.0,0,0,0,False,принято
+synthetic_r6_g3,290.0,0,0,0,False,принято
+synthetic_r6_g3,300.0,0,0,0,False,принято
+synthetic_r6_g3,310.0,0,0,0,False,принято
+synthetic_r6_g3,320.0,0,0,0,False,принято
+synthetic_r6_g3,330.0,0,0,0,False,принято
+synthetic_r6_g3,340.0,0,0,0,False,принято
+synthetic_r6_g3,350.0,0,0,0,False,принято
+synthetic_r6_g3,360.0,0,0,0,False,принято
+synthetic_r6_g3,370.0,0,0,0,False,принято
+synthetic_r6_g3,380.0,0,0,0,False,принято
+synthetic_r6_g3,390.0,0,0,0,False,принято
+synthetic_r6_g3,400.0,0,0,0,False,принято
+synthetic_r6_g3,410.0,0,0,0,False,принято
+synthetic_r6_g3,420.0,0,0,0,False,принято
+synthetic_r6_g3,430.0,0,0,0,False,принято
+synthetic_r6_g3,440.0,0,0,0,False,принято
+synthetic_r6_g3,450.0,0,0,0,False,принято
+synthetic_r6_g3,460.0,0,0,0,False,принято
+synthetic_r6_g3,470.0,0,0,0,False,принято
+synthetic_r6_g3,480.0,0,0,0,False,принято
+synthetic_r6_g3,490.0,0,0,0,False,принято
+synthetic_r6_g3,500.0,0,0,0,False,принято
+synthetic_r6_g3,510.0,3,0,0,False,принято
+synthetic_r6_g3,520.0,3,0,0,False,принято
+synthetic_r6_g3,530.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,540.0,3,2,2,False,принято
+synthetic_r6_g3,550.0,3,2,2,False,принято
+synthetic_r6_g3,560.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,570.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,580.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,590.0,3,3,3,False,принято
+synthetic_r6_g3,600.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,610.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,620.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,630.0,3,5,-1,True,низкая уверенность
+synthetic_r6_g3,640.0,3,4,-1,True,низкая уверенность
+synthetic_r6_g3,650.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,660.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,670.0,3,3,3,False,принято
+synthetic_r6_g3,680.0,3,3,3,False,принято
+synthetic_r6_g3,690.0,3,3,3,False,принято
+synthetic_r6_g3,700.0,3,3,3,False,принято
+synthetic_r6_g3,710.0,3,3,3,False,принято
+synthetic_r6_g3,720.0,3,3,3,False,принято
+synthetic_r6_g3,730.0,3,3,3,False,принято
+synthetic_r6_g3,740.0,3,3,3,False,принято
+synthetic_r6_g3,750.0,3,3,3,False,принято
+synthetic_r6_g3,760.0,3,3,3,False,принято
+synthetic_r6_g3,770.0,3,3,3,False,принято
+synthetic_r6_g3,780.0,3,3,3,False,принято
+synthetic_r6_g3,790.0,3,3,3,False,принято
+synthetic_r6_g3,800.0,3,3,3,False,принято
+synthetic_r6_g3,810.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,820.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,830.0,3,3,3,False,принято
+synthetic_r6_g3,840.0,3,3,3,False,принято
+synthetic_r6_g3,850.0,3,3,3,False,принято
+synthetic_r6_g3,860.0,3,3,3,False,принято
+synthetic_r6_g3,870.0,3,3,3,False,принято
+synthetic_r6_g3,880.0,3,3,3,False,принято
+synthetic_r6_g3,890.0,3,3,3,False,принято
+synthetic_r6_g3,900.0,3,3,3,False,принято
+synthetic_r6_g3,910.0,3,3,3,False,принято
+synthetic_r6_g3,920.0,3,3,3,False,принято
+synthetic_r6_g3,930.0,3,3,3,False,принято
+synthetic_r6_g3,940.0,3,3,3,False,принято
+synthetic_r6_g3,950.0,3,3,3,False,принято
+synthetic_r6_g3,960.0,3,3,3,False,принято
+synthetic_r6_g3,970.0,3,3,3,False,принято
+synthetic_r6_g3,980.0,3,3,3,False,принято
+synthetic_r6_g3,990.0,3,3,3,False,принято
+synthetic_r6_g3,1000.0,3,3,3,False,принято
+synthetic_r6_g3,1010.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1020.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1030.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1040.0,3,3,3,False,принято
+synthetic_r6_g3,1050.0,3,3,3,False,принято
+synthetic_r6_g3,1060.0,3,3,3,False,принято
+synthetic_r6_g3,1070.0,3,3,3,False,принято
+synthetic_r6_g3,1080.0,3,3,3,False,принято
+synthetic_r6_g3,1090.0,3,3,3,False,принято
+synthetic_r6_g3,1100.0,3,3,3,False,принято
+synthetic_r6_g3,1110.0,3,3,3,False,принято
+synthetic_r6_g3,1120.0,3,3,3,False,принято
+synthetic_r6_g3,1130.0,3,3,3,False,принято
+synthetic_r6_g3,1140.0,3,3,3,False,принято
+synthetic_r6_g3,1150.0,3,3,3,False,принято
+synthetic_r6_g3,1160.0,3,3,3,False,принято
+synthetic_r6_g3,1170.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1180.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1190.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1200.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1210.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1220.0,3,3,3,False,принято
+synthetic_r6_g3,1230.0,3,3,3,False,принято
+synthetic_r6_g3,1240.0,3,3,3,False,принято
+synthetic_r6_g3,1250.0,3,3,3,False,принято
+synthetic_r6_g3,1260.0,3,3,3,False,принято
+synthetic_r6_g3,1270.0,3,3,3,False,принято
+synthetic_r6_g3,1280.0,3,3,3,False,принято
+synthetic_r6_g3,1290.0,3,3,3,False,принято
+synthetic_r6_g3,1300.0,3,3,3,False,принято
+synthetic_r6_g3,1310.0,3,3,3,False,принято
+synthetic_r6_g3,1320.0,3,3,3,False,принято
+synthetic_r6_g3,1330.0,3,3,3,False,принято
+synthetic_r6_g3,1340.0,3,3,3,False,принято
+synthetic_r6_g3,1350.0,3,3,3,False,принято
+synthetic_r6_g3,1360.0,3,3,3,False,принято
+synthetic_r6_g3,1370.0,3,3,3,False,принято
+synthetic_r6_g3,1380.0,3,3,3,False,принято
+synthetic_r6_g3,1390.0,3,3,3,False,принято
+synthetic_r6_g3,1400.0,3,3,3,False,принято
+synthetic_r6_g3,1410.0,3,3,3,False,принято
+synthetic_r6_g3,1420.0,3,3,3,False,принято
+synthetic_r6_g3,1430.0,3,3,3,False,принято
+synthetic_r6_g3,1440.0,3,3,3,False,принято
+synthetic_r6_g3,1450.0,3,3,3,False,принято
+synthetic_r6_g3,1460.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1470.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,1480.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1490.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1500.0,3,3,3,False,принято
+synthetic_r6_g3,1510.0,3,3,3,False,принято
+synthetic_r6_g3,1520.0,3,3,3,False,принято
+synthetic_r6_g3,1530.0,3,3,3,False,принято
+synthetic_r6_g3,1540.0,3,3,3,False,принято
+synthetic_r6_g3,1550.0,3,3,3,False,принято
+synthetic_r6_g3,1560.0,3,3,3,False,принято
+synthetic_r6_g3,1570.0,3,3,3,False,принято
+synthetic_r6_g3,1580.0,3,3,3,False,принято
+synthetic_r6_g3,1590.0,3,3,3,False,принято
+synthetic_r6_g3,1600.0,3,3,3,False,принято
+synthetic_r6_g3,1610.0,3,3,3,False,принято
+synthetic_r6_g3,1620.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1630.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,1640.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1650.0,3,3,3,False,принято
+synthetic_r6_g3,1660.0,3,3,3,False,принято
+synthetic_r6_g3,1670.0,3,3,3,False,принято
+synthetic_r6_g3,1680.0,3,3,3,False,принято
+synthetic_r6_g3,1690.0,3,3,3,False,принято
+synthetic_r6_g3,1700.0,3,3,3,False,принято
+synthetic_r6_g3,1710.0,3,3,3,False,принято
+synthetic_r6_g3,1720.0,3,3,3,False,принято
+synthetic_r6_g3,1730.0,3,3,3,False,принято
+synthetic_r6_g3,1740.0,3,3,3,False,принято
+synthetic_r6_g3,1750.0,3,3,3,False,принято
+synthetic_r6_g3,1760.0,3,3,3,False,принято
+synthetic_r6_g3,1770.0,3,3,3,False,принято
+synthetic_r6_g3,1780.0,3,3,3,False,принято
+synthetic_r6_g3,1790.0,3,3,3,False,принято
+synthetic_r6_g3,1800.0,3,3,3,False,принято
+synthetic_r6_g3,1810.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,1820.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,1830.0,3,2,2,False,принято
+synthetic_r6_g3,1840.0,3,2,2,False,принято
+synthetic_r6_g3,1850.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,1860.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1870.0,3,3,3,False,принято
+synthetic_r6_g3,1880.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1890.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1900.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,1910.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,1920.0,3,2,2,False,принято
+synthetic_r6_g3,1930.0,3,2,2,False,принято
+synthetic_r6_g3,1940.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,1950.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,1960.0,3,3,3,False,принято
+synthetic_r6_g3,1970.0,3,3,3,False,принято
+synthetic_r6_g3,1980.0,3,3,3,False,принято
+synthetic_r6_g3,1990.0,3,3,3,False,принято
+synthetic_r6_g3,2000.0,3,3,3,False,принято
+synthetic_r6_g3,2010.0,3,3,3,False,принято
+synthetic_r6_g3,2020.0,3,3,3,False,принято
+synthetic_r6_g3,2030.0,3,3,3,False,принято
+synthetic_r6_g3,2040.0,3,3,3,False,принято
+synthetic_r6_g3,2050.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2060.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2070.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2080.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,2090.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2100.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,2110.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,2120.0,3,3,3,False,принято
+synthetic_r6_g3,2130.0,3,3,3,False,принято
+synthetic_r6_g3,2140.0,3,3,3,False,принято
+synthetic_r6_g3,2150.0,3,3,3,False,принято
+synthetic_r6_g3,2160.0,3,3,3,False,принято
+synthetic_r6_g3,2170.0,3,3,3,False,принято
+synthetic_r6_g3,2180.0,3,3,3,False,принято
+synthetic_r6_g3,2190.0,3,3,3,False,принято
+synthetic_r6_g3,2200.0,3,3,3,False,принято
+synthetic_r6_g3,2210.0,3,3,3,False,принято
+synthetic_r6_g3,2220.0,3,3,3,False,принято
+synthetic_r6_g3,2230.0,3,3,3,False,принято
+synthetic_r6_g3,2240.0,3,3,3,False,принято
+synthetic_r6_g3,2250.0,3,3,3,False,принято
+synthetic_r6_g3,2260.0,3,3,3,False,принято
+synthetic_r6_g3,2270.0,3,3,3,False,принято
+synthetic_r6_g3,2280.0,3,3,3,False,принято
+synthetic_r6_g3,2290.0,3,3,3,False,принято
+synthetic_r6_g3,2300.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,2310.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,2320.0,3,3,3,False,принято
+synthetic_r6_g3,2330.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2340.0,3,2,-1,True,ожидание подтверждения
+synthetic_r6_g3,2350.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,2360.0,3,2,-1,True,низкая уверенность
+synthetic_r6_g3,2370.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,2380.0,3,3,-1,True,низкая уверенность
+synthetic_r6_g3,2390.0,3,3,-1,True,ожидание подтверждения
+synthetic_r6_g3,2400.0,3,3,3,False,принято
+synthetic_r6_g3,2410.0,3,3,3,False,принято
+synthetic_r6_g3,2420.0,3,3,3,False,принято
+synthetic_r6_g3,2430.0,3,3,3,False,принято
+synthetic_r6_g3,2440.0,3,3,3,False,принято
+synthetic_r6_g3,2450.0,3,3,3,False,принято
+synthetic_r6_g3,2460.0,3,3,3,False,принято
+synthetic_r6_g3,2470.0,3,3,3,False,принято
+synthetic_r6_g3,2480.0,3,3,3,False,принято
+synthetic_r6_g3,2490.0,3,3,3,False,принято
+synthetic_r6_g3,2500.0,3,3,3,False,принято
+synthetic_r6_g3,2510.0,0,3,-1,True,низкая уверенность
+synthetic_r6_g3,2520.0,0,2,-1,True,низкая уверенность
+synthetic_r6_g3,2530.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g3,2540.0,0,0,0,False,принято
+synthetic_r6_g3,2550.0,0,0,0,False,принято
+synthetic_r6_g3,2560.0,0,0,0,False,принято
+synthetic_r6_g3,2570.0,0,0,0,False,принято
+synthetic_r6_g3,2580.0,0,0,0,False,принято
+synthetic_r6_g3,2590.0,0,0,0,False,принято
+synthetic_r6_g3,2600.0,0,0,0,False,принято
+synthetic_r6_g3,2610.0,0,0,0,False,принято
+synthetic_r6_g3,2620.0,0,0,0,False,принято
+synthetic_r6_g3,2630.0,0,0,0,False,принято
+synthetic_r6_g3,2640.0,0,0,0,False,принято
+synthetic_r6_g3,2650.0,0,0,0,False,принято
+synthetic_r6_g3,2660.0,0,0,0,False,принято
+synthetic_r6_g3,2670.0,0,0,0,False,принято
+synthetic_r6_g3,2680.0,0,0,0,False,принято
+synthetic_r6_g3,2690.0,0,0,0,False,принято
+synthetic_r6_g3,2700.0,0,0,0,False,принято
+synthetic_r6_g3,2710.0,0,0,0,False,принято
+synthetic_r6_g3,2720.0,0,0,0,False,принято
+synthetic_r6_g3,2730.0,0,0,0,False,принято
+synthetic_r6_g3,2740.0,0,0,0,False,принято
+synthetic_r6_g3,2750.0,0,0,0,False,принято
+synthetic_r6_g3,2760.0,0,0,0,False,принято
+synthetic_r6_g3,2770.0,0,0,0,False,принято
+synthetic_r6_g3,2780.0,0,0,0,False,принято
+synthetic_r6_g3,2790.0,0,0,0,False,принято
+synthetic_r6_g3,2800.0,0,0,0,False,принято
+synthetic_r6_g3,2810.0,0,0,0,False,принято
+synthetic_r6_g3,2820.0,0,0,0,False,принято
+synthetic_r6_g3,2830.0,0,0,0,False,принято
+synthetic_r6_g3,2840.0,0,0,0,False,принято
+synthetic_r6_g3,2850.0,0,0,0,False,принято
+synthetic_r6_g3,2860.0,0,0,0,False,принято
+synthetic_r6_g3,2870.0,0,0,0,False,принято
+synthetic_r6_g3,2880.0,0,0,0,False,принято
+synthetic_r6_g3,2890.0,0,0,0,False,принято
+synthetic_r6_g3,2900.0,0,0,0,False,принято
+synthetic_r6_g3,2910.0,0,0,0,False,принято
+synthetic_r6_g3,2920.0,0,0,0,False,принято
+synthetic_r6_g3,2930.0,0,0,0,False,принято
+synthetic_r6_g3,2940.0,0,0,0,False,принято
+synthetic_r6_g3,2950.0,0,0,0,False,принято
+synthetic_r6_g3,2960.0,0,0,0,False,принято
+synthetic_r6_g3,2970.0,0,0,0,False,принято
+synthetic_r6_g3,2980.0,0,0,0,False,принято
+synthetic_r6_g3,2990.0,0,0,0,False,принято
+synthetic_r6_g3,3000.0,0,0,0,False,принято
+synthetic_r6_g4,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g4,60.0,0,0,0,False,принято
+synthetic_r6_g4,70.0,0,0,0,False,принято
+synthetic_r6_g4,80.0,0,0,0,False,принято
+synthetic_r6_g4,90.0,0,0,0,False,принято
+synthetic_r6_g4,100.0,0,0,0,False,принято
+synthetic_r6_g4,110.0,0,0,0,False,принято
+synthetic_r6_g4,120.0,0,0,0,False,принято
+synthetic_r6_g4,130.0,0,0,0,False,принято
+synthetic_r6_g4,140.0,0,0,0,False,принято
+synthetic_r6_g4,150.0,0,0,0,False,принято
+synthetic_r6_g4,160.0,0,0,0,False,принято
+synthetic_r6_g4,170.0,0,0,0,False,принято
+synthetic_r6_g4,180.0,0,0,0,False,принято
+synthetic_r6_g4,190.0,0,0,0,False,принято
+synthetic_r6_g4,200.0,0,0,0,False,принято
+synthetic_r6_g4,210.0,0,0,0,False,принято
+synthetic_r6_g4,220.0,0,0,0,False,принято
+synthetic_r6_g4,230.0,0,0,0,False,принято
+synthetic_r6_g4,240.0,0,0,0,False,принято
+synthetic_r6_g4,250.0,0,0,0,False,принято
+synthetic_r6_g4,260.0,0,0,0,False,принято
+synthetic_r6_g4,270.0,0,0,0,False,принято
+synthetic_r6_g4,280.0,0,0,0,False,принято
+synthetic_r6_g4,290.0,0,0,0,False,принято
+synthetic_r6_g4,300.0,0,0,0,False,принято
+synthetic_r6_g4,310.0,0,0,0,False,принято
+synthetic_r6_g4,320.0,0,0,0,False,принято
+synthetic_r6_g4,330.0,0,0,0,False,принято
+synthetic_r6_g4,340.0,0,0,0,False,принято
+synthetic_r6_g4,350.0,0,0,0,False,принято
+synthetic_r6_g4,360.0,0,0,0,False,принято
+synthetic_r6_g4,370.0,0,0,0,False,принято
+synthetic_r6_g4,380.0,0,0,0,False,принято
+synthetic_r6_g4,390.0,0,0,0,False,принято
+synthetic_r6_g4,400.0,0,0,0,False,принято
+synthetic_r6_g4,410.0,0,0,0,False,принято
+synthetic_r6_g4,420.0,0,0,0,False,принято
+synthetic_r6_g4,430.0,0,0,0,False,принято
+synthetic_r6_g4,440.0,0,0,0,False,принято
+synthetic_r6_g4,450.0,0,0,0,False,принято
+synthetic_r6_g4,460.0,0,0,0,False,принято
+synthetic_r6_g4,470.0,0,0,0,False,принято
+synthetic_r6_g4,480.0,0,0,0,False,принято
+synthetic_r6_g4,490.0,0,0,0,False,принято
+synthetic_r6_g4,500.0,0,0,0,False,принято
+synthetic_r6_g4,510.0,4,0,0,False,принято
+synthetic_r6_g4,520.0,4,0,0,False,принято
+synthetic_r6_g4,530.0,4,2,-1,True,ожидание подтверждения
+synthetic_r6_g4,540.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,550.0,4,4,4,False,принято
+synthetic_r6_g4,560.0,4,4,4,False,принято
+synthetic_r6_g4,570.0,4,4,4,False,принято
+synthetic_r6_g4,580.0,4,4,4,False,принято
+synthetic_r6_g4,590.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,600.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,610.0,4,4,4,False,принято
+synthetic_r6_g4,620.0,4,4,4,False,принято
+synthetic_r6_g4,630.0,4,4,4,False,принято
+synthetic_r6_g4,640.0,4,4,4,False,принято
+synthetic_r6_g4,650.0,4,4,4,False,принято
+synthetic_r6_g4,660.0,4,4,4,False,принято
+synthetic_r6_g4,670.0,4,4,4,False,принято
+synthetic_r6_g4,680.0,4,4,4,False,принято
+synthetic_r6_g4,690.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,700.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,710.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,720.0,4,4,4,False,принято
+synthetic_r6_g4,730.0,4,4,4,False,принято
+synthetic_r6_g4,740.0,4,4,4,False,принято
+synthetic_r6_g4,750.0,4,4,4,False,принято
+synthetic_r6_g4,760.0,4,4,4,False,принято
+synthetic_r6_g4,770.0,4,4,4,False,принято
+synthetic_r6_g4,780.0,4,4,4,False,принято
+synthetic_r6_g4,790.0,4,4,4,False,принято
+synthetic_r6_g4,800.0,4,4,4,False,принято
+synthetic_r6_g4,810.0,4,4,4,False,принято
+synthetic_r6_g4,820.0,4,4,4,False,принято
+synthetic_r6_g4,830.0,4,4,4,False,принято
+synthetic_r6_g4,840.0,4,4,4,False,принято
+synthetic_r6_g4,850.0,4,4,4,False,принято
+synthetic_r6_g4,860.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,870.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,880.0,4,4,4,False,принято
+synthetic_r6_g4,890.0,4,4,4,False,принято
+synthetic_r6_g4,900.0,4,4,4,False,принято
+synthetic_r6_g4,910.0,4,4,4,False,принято
+synthetic_r6_g4,920.0,4,4,4,False,принято
+synthetic_r6_g4,930.0,4,4,4,False,принято
+synthetic_r6_g4,940.0,4,4,4,False,принято
+synthetic_r6_g4,950.0,4,4,4,False,принято
+synthetic_r6_g4,960.0,4,4,4,False,принято
+synthetic_r6_g4,970.0,4,5,-1,True,низкая уверенность
+synthetic_r6_g4,980.0,4,5,-1,True,низкая уверенность
+synthetic_r6_g4,990.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1000.0,4,5,-1,True,низкая уверенность
+synthetic_r6_g4,1010.0,4,2,-1,True,низкая уверенность
+synthetic_r6_g4,1020.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1030.0,4,4,4,False,принято
+synthetic_r6_g4,1040.0,4,4,4,False,принято
+synthetic_r6_g4,1050.0,4,4,4,False,принято
+synthetic_r6_g4,1060.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1070.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1080.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1090.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1100.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1110.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1120.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1130.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1140.0,4,4,4,False,принято
+synthetic_r6_g4,1150.0,4,4,4,False,принято
+synthetic_r6_g4,1160.0,4,4,4,False,принято
+synthetic_r6_g4,1170.0,4,4,4,False,принято
+synthetic_r6_g4,1180.0,4,4,4,False,принято
+synthetic_r6_g4,1190.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1200.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1210.0,4,4,4,False,принято
+synthetic_r6_g4,1220.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1230.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1240.0,4,4,4,False,принято
+synthetic_r6_g4,1250.0,4,4,4,False,принято
+synthetic_r6_g4,1260.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1270.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1280.0,4,5,-1,True,низкая уверенность
+synthetic_r6_g4,1290.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,1300.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1310.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1320.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1330.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1340.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1350.0,4,3,-1,True,ожидание подтверждения
+synthetic_r6_g4,1360.0,4,3,3,False,принято
+synthetic_r6_g4,1370.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1380.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1390.0,4,4,4,False,принято
+synthetic_r6_g4,1400.0,4,4,4,False,принято
+synthetic_r6_g4,1410.0,4,4,4,False,принято
+synthetic_r6_g4,1420.0,4,4,4,False,принято
+synthetic_r6_g4,1430.0,4,4,4,False,принято
+synthetic_r6_g4,1440.0,4,4,4,False,принято
+synthetic_r6_g4,1450.0,4,4,4,False,принято
+synthetic_r6_g4,1460.0,4,4,4,False,принято
+synthetic_r6_g4,1470.0,4,4,4,False,принято
+synthetic_r6_g4,1480.0,4,4,4,False,принято
+synthetic_r6_g4,1490.0,4,2,-1,True,низкая уверенность
+synthetic_r6_g4,1500.0,4,2,-1,True,ожидание подтверждения
+synthetic_r6_g4,1510.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1520.0,4,4,4,False,принято
+synthetic_r6_g4,1530.0,4,4,4,False,принято
+synthetic_r6_g4,1540.0,4,4,4,False,принято
+synthetic_r6_g4,1550.0,4,4,4,False,принято
+synthetic_r6_g4,1560.0,4,4,4,False,принято
+synthetic_r6_g4,1570.0,4,4,4,False,принято
+synthetic_r6_g4,1580.0,4,4,4,False,принято
+synthetic_r6_g4,1590.0,4,4,4,False,принято
+synthetic_r6_g4,1600.0,4,4,4,False,принято
+synthetic_r6_g4,1610.0,4,4,4,False,принято
+synthetic_r6_g4,1620.0,4,4,4,False,принято
+synthetic_r6_g4,1630.0,4,4,4,False,принято
+synthetic_r6_g4,1640.0,4,4,4,False,принято
+synthetic_r6_g4,1650.0,4,4,4,False,принято
+synthetic_r6_g4,1660.0,4,4,4,False,принято
+synthetic_r6_g4,1670.0,4,4,4,False,принято
+synthetic_r6_g4,1680.0,4,4,4,False,принято
+synthetic_r6_g4,1690.0,4,4,4,False,принято
+synthetic_r6_g4,1700.0,4,4,4,False,принято
+synthetic_r6_g4,1710.0,4,4,4,False,принято
+synthetic_r6_g4,1720.0,4,4,4,False,принято
+synthetic_r6_g4,1730.0,4,4,4,False,принято
+synthetic_r6_g4,1740.0,4,4,4,False,принято
+synthetic_r6_g4,1750.0,4,4,4,False,принято
+synthetic_r6_g4,1760.0,4,4,4,False,принято
+synthetic_r6_g4,1770.0,4,4,4,False,принято
+synthetic_r6_g4,1780.0,4,4,4,False,принято
+synthetic_r6_g4,1790.0,4,4,4,False,принято
+synthetic_r6_g4,1800.0,4,4,4,False,принято
+synthetic_r6_g4,1810.0,4,4,4,False,принято
+synthetic_r6_g4,1820.0,4,4,4,False,принято
+synthetic_r6_g4,1830.0,4,4,4,False,принято
+synthetic_r6_g4,1840.0,4,4,4,False,принято
+synthetic_r6_g4,1850.0,4,4,4,False,принято
+synthetic_r6_g4,1860.0,4,4,4,False,принято
+synthetic_r6_g4,1870.0,4,4,4,False,принято
+synthetic_r6_g4,1880.0,4,4,4,False,принято
+synthetic_r6_g4,1890.0,4,4,4,False,принято
+synthetic_r6_g4,1900.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1910.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,1920.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,1930.0,4,4,4,False,принято
+synthetic_r6_g4,1940.0,4,4,4,False,принято
+synthetic_r6_g4,1950.0,4,4,4,False,принято
+synthetic_r6_g4,1960.0,4,4,4,False,принято
+synthetic_r6_g4,1970.0,4,4,4,False,принято
+synthetic_r6_g4,1980.0,4,4,4,False,принято
+synthetic_r6_g4,1990.0,4,4,4,False,принято
+synthetic_r6_g4,2000.0,4,4,4,False,принято
+synthetic_r6_g4,2010.0,4,4,4,False,принято
+synthetic_r6_g4,2020.0,4,4,4,False,принято
+synthetic_r6_g4,2030.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2040.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2050.0,4,4,4,False,принято
+synthetic_r6_g4,2060.0,4,4,4,False,принято
+synthetic_r6_g4,2070.0,4,4,4,False,принято
+synthetic_r6_g4,2080.0,4,4,4,False,принято
+synthetic_r6_g4,2090.0,4,4,4,False,принято
+synthetic_r6_g4,2100.0,4,4,4,False,принято
+synthetic_r6_g4,2110.0,4,4,4,False,принято
+synthetic_r6_g4,2120.0,4,4,4,False,принято
+synthetic_r6_g4,2130.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2140.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2150.0,4,5,-1,True,ожидание подтверждения
+synthetic_r6_g4,2160.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2170.0,4,2,-1,True,низкая уверенность
+synthetic_r6_g4,2180.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2190.0,4,4,4,False,принято
+synthetic_r6_g4,2200.0,4,4,4,False,принято
+synthetic_r6_g4,2210.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2220.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2230.0,4,4,4,False,принято
+synthetic_r6_g4,2240.0,4,4,4,False,принято
+synthetic_r6_g4,2250.0,4,4,4,False,принято
+synthetic_r6_g4,2260.0,4,4,4,False,принято
+synthetic_r6_g4,2270.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2280.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2290.0,4,4,4,False,принято
+synthetic_r6_g4,2300.0,4,4,4,False,принято
+synthetic_r6_g4,2310.0,4,2,-1,True,низкая уверенность
+synthetic_r6_g4,2320.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2330.0,4,5,-1,True,низкая уверенность
+synthetic_r6_g4,2340.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,2350.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,2360.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2370.0,4,4,4,False,принято
+synthetic_r6_g4,2380.0,4,4,4,False,принято
+synthetic_r6_g4,2390.0,4,4,4,False,принято
+synthetic_r6_g4,2400.0,4,4,4,False,принято
+synthetic_r6_g4,2410.0,4,4,4,False,принято
+synthetic_r6_g4,2420.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,2430.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,2440.0,4,3,-1,True,низкая уверенность
+synthetic_r6_g4,2450.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2460.0,4,4,-1,True,низкая уверенность
+synthetic_r6_g4,2470.0,4,4,-1,True,ожидание подтверждения
+synthetic_r6_g4,2480.0,4,4,4,False,принято
+synthetic_r6_g4,2490.0,4,4,4,False,принято
+synthetic_r6_g4,2500.0,4,4,4,False,принято
+synthetic_r6_g4,2510.0,0,4,4,False,принято
+synthetic_r6_g4,2520.0,0,4,-1,True,низкая уверенность
+synthetic_r6_g4,2530.0,0,2,-1,True,ожидание подтверждения
+synthetic_r6_g4,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g4,2550.0,0,0,0,False,принято
+synthetic_r6_g4,2560.0,0,0,0,False,принято
+synthetic_r6_g4,2570.0,0,0,0,False,принято
+synthetic_r6_g4,2580.0,0,0,0,False,принято
+synthetic_r6_g4,2590.0,0,0,0,False,принято
+synthetic_r6_g4,2600.0,0,0,0,False,принято
+synthetic_r6_g4,2610.0,0,0,0,False,принято
+synthetic_r6_g4,2620.0,0,0,0,False,принято
+synthetic_r6_g4,2630.0,0,0,0,False,принято
+synthetic_r6_g4,2640.0,0,0,0,False,принято
+synthetic_r6_g4,2650.0,0,0,0,False,принято
+synthetic_r6_g4,2660.0,0,0,0,False,принято
+synthetic_r6_g4,2670.0,0,0,0,False,принято
+synthetic_r6_g4,2680.0,0,0,0,False,принято
+synthetic_r6_g4,2690.0,0,0,0,False,принято
+synthetic_r6_g4,2700.0,0,0,0,False,принято
+synthetic_r6_g4,2710.0,0,0,0,False,принято
+synthetic_r6_g4,2720.0,0,0,0,False,принято
+synthetic_r6_g4,2730.0,0,0,0,False,принято
+synthetic_r6_g4,2740.0,0,0,0,False,принято
+synthetic_r6_g4,2750.0,0,0,0,False,принято
+synthetic_r6_g4,2760.0,0,0,0,False,принято
+synthetic_r6_g4,2770.0,0,0,0,False,принято
+synthetic_r6_g4,2780.0,0,0,0,False,принято
+synthetic_r6_g4,2790.0,0,0,0,False,принято
+synthetic_r6_g4,2800.0,0,0,0,False,принято
+synthetic_r6_g4,2810.0,0,0,0,False,принято
+synthetic_r6_g4,2820.0,0,0,0,False,принято
+synthetic_r6_g4,2830.0,0,0,0,False,принято
+synthetic_r6_g4,2840.0,0,0,0,False,принято
+synthetic_r6_g4,2850.0,0,0,0,False,принято
+synthetic_r6_g4,2860.0,0,0,0,False,принято
+synthetic_r6_g4,2870.0,0,0,0,False,принято
+synthetic_r6_g4,2880.0,0,0,0,False,принято
+synthetic_r6_g4,2890.0,0,0,0,False,принято
+synthetic_r6_g4,2900.0,0,0,0,False,принято
+synthetic_r6_g4,2910.0,0,0,0,False,принято
+synthetic_r6_g4,2920.0,0,0,0,False,принято
+synthetic_r6_g4,2930.0,0,0,0,False,принято
+synthetic_r6_g4,2940.0,0,0,0,False,принято
+synthetic_r6_g4,2950.0,0,0,0,False,принято
+synthetic_r6_g4,2960.0,0,0,0,False,принято
+synthetic_r6_g4,2970.0,0,0,0,False,принято
+synthetic_r6_g4,2980.0,0,0,0,False,принято
+synthetic_r6_g4,2990.0,0,0,0,False,принято
+synthetic_r6_g4,3000.0,0,0,0,False,принято
+synthetic_r6_g5,50.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g5,60.0,0,0,0,False,принято
+synthetic_r6_g5,70.0,0,0,0,False,принято
+synthetic_r6_g5,80.0,0,0,0,False,принято
+synthetic_r6_g5,90.0,0,0,0,False,принято
+synthetic_r6_g5,100.0,0,0,0,False,принято
+synthetic_r6_g5,110.0,0,0,0,False,принято
+synthetic_r6_g5,120.0,0,0,0,False,принято
+synthetic_r6_g5,130.0,0,0,0,False,принято
+synthetic_r6_g5,140.0,0,0,0,False,принято
+synthetic_r6_g5,150.0,0,0,0,False,принято
+synthetic_r6_g5,160.0,0,0,0,False,принято
+synthetic_r6_g5,170.0,0,0,0,False,принято
+synthetic_r6_g5,180.0,0,0,0,False,принято
+synthetic_r6_g5,190.0,0,0,0,False,принято
+synthetic_r6_g5,200.0,0,0,0,False,принято
+synthetic_r6_g5,210.0,0,0,0,False,принято
+synthetic_r6_g5,220.0,0,0,0,False,принято
+synthetic_r6_g5,230.0,0,0,0,False,принято
+synthetic_r6_g5,240.0,0,0,0,False,принято
+synthetic_r6_g5,250.0,0,0,0,False,принято
+synthetic_r6_g5,260.0,0,0,0,False,принято
+synthetic_r6_g5,270.0,0,0,0,False,принято
+synthetic_r6_g5,280.0,0,0,0,False,принято
+synthetic_r6_g5,290.0,0,0,0,False,принято
+synthetic_r6_g5,300.0,0,0,0,False,принято
+synthetic_r6_g5,310.0,0,0,0,False,принято
+synthetic_r6_g5,320.0,0,0,0,False,принято
+synthetic_r6_g5,330.0,0,0,0,False,принято
+synthetic_r6_g5,340.0,0,0,0,False,принято
+synthetic_r6_g5,350.0,0,0,0,False,принято
+synthetic_r6_g5,360.0,0,0,0,False,принято
+synthetic_r6_g5,370.0,0,0,0,False,принято
+synthetic_r6_g5,380.0,0,0,0,False,принято
+synthetic_r6_g5,390.0,0,0,0,False,принято
+synthetic_r6_g5,400.0,0,0,0,False,принято
+synthetic_r6_g5,410.0,0,0,0,False,принято
+synthetic_r6_g5,420.0,0,0,0,False,принято
+synthetic_r6_g5,430.0,0,0,0,False,принято
+synthetic_r6_g5,440.0,0,0,0,False,принято
+synthetic_r6_g5,450.0,0,0,0,False,принято
+synthetic_r6_g5,460.0,0,0,0,False,принято
+synthetic_r6_g5,470.0,0,0,0,False,принято
+synthetic_r6_g5,480.0,0,0,0,False,принято
+synthetic_r6_g5,490.0,0,0,0,False,принято
+synthetic_r6_g5,500.0,0,0,0,False,принято
+synthetic_r6_g5,510.0,5,0,0,False,принято
+synthetic_r6_g5,520.0,5,0,-1,True,низкая уверенность
+synthetic_r6_g5,530.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,540.0,5,2,2,False,принято
+synthetic_r6_g5,550.0,5,2,2,False,принято
+synthetic_r6_g5,560.0,5,2,2,False,принято
+synthetic_r6_g5,570.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,580.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,590.0,5,5,5,False,принято
+synthetic_r6_g5,600.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,610.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,620.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,630.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,640.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,650.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,660.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,670.0,5,5,5,False,принято
+synthetic_r6_g5,680.0,5,5,5,False,принято
+synthetic_r6_g5,690.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,700.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,710.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,720.0,5,2,2,False,принято
+synthetic_r6_g5,730.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,740.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,750.0,5,5,5,False,принято
+synthetic_r6_g5,760.0,5,5,5,False,принято
+synthetic_r6_g5,770.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,780.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,790.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,800.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,810.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,820.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,830.0,5,5,5,False,принято
+synthetic_r6_g5,840.0,5,5,5,False,принято
+synthetic_r6_g5,850.0,5,5,5,False,принято
+synthetic_r6_g5,860.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,870.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,880.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,890.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,900.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,910.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,920.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,930.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,940.0,5,2,2,False,принято
+synthetic_r6_g5,950.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,960.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,970.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,980.0,5,2,2,False,принято
+synthetic_r6_g5,990.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1000.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1010.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1020.0,5,3,3,False,принято
+synthetic_r6_g5,1030.0,5,3,3,False,принято
+synthetic_r6_g5,1040.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1050.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1060.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1070.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,1080.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,1090.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,1100.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1110.0,5,5,5,False,принято
+synthetic_r6_g5,1120.0,5,5,5,False,принято
+synthetic_r6_g5,1130.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1140.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1150.0,5,5,5,False,принято
+synthetic_r6_g5,1160.0,5,5,5,False,принято
+synthetic_r6_g5,1170.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1180.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1190.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1200.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,1210.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1220.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1230.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1240.0,5,5,5,False,принято
+synthetic_r6_g5,1250.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1260.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1270.0,5,5,5,False,принято
+synthetic_r6_g5,1280.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1290.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1300.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1310.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1320.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,1330.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,1340.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,1350.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,1360.0,5,2,2,False,принято
+synthetic_r6_g5,1370.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,1380.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1390.0,5,5,5,False,принято
+synthetic_r6_g5,1400.0,5,5,5,False,принято
+synthetic_r6_g5,1410.0,5,5,5,False,принято
+synthetic_r6_g5,1420.0,5,5,5,False,принято
+synthetic_r6_g5,1430.0,5,5,5,False,принято
+synthetic_r6_g5,1440.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1450.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1460.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1470.0,5,5,5,False,принято
+synthetic_r6_g5,1480.0,5,5,5,False,принято
+synthetic_r6_g5,1490.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1500.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1510.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1520.0,5,3,3,False,принято
+synthetic_r6_g5,1530.0,5,3,3,False,принято
+synthetic_r6_g5,1540.0,5,3,3,False,принято
+synthetic_r6_g5,1550.0,5,3,3,False,принято
+synthetic_r6_g5,1560.0,5,3,3,False,принято
+synthetic_r6_g5,1570.0,5,3,3,False,принято
+synthetic_r6_g5,1580.0,5,3,3,False,принято
+synthetic_r6_g5,1590.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1600.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1610.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1620.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1630.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1640.0,5,3,3,False,принято
+synthetic_r6_g5,1650.0,5,3,3,False,принято
+synthetic_r6_g5,1660.0,5,3,3,False,принято
+synthetic_r6_g5,1670.0,5,3,3,False,принято
+synthetic_r6_g5,1680.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1690.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1700.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1710.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1720.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1730.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1740.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,1750.0,5,3,3,False,принято
+synthetic_r6_g5,1760.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1770.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1780.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1790.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1800.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1810.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1820.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1830.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1840.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1850.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1860.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1870.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,1880.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1890.0,5,5,5,False,принято
+synthetic_r6_g5,1900.0,5,5,5,False,принято
+synthetic_r6_g5,1910.0,5,5,5,False,принято
+synthetic_r6_g5,1920.0,5,5,5,False,принято
+synthetic_r6_g5,1930.0,5,5,5,False,принято
+synthetic_r6_g5,1940.0,5,5,5,False,принято
+synthetic_r6_g5,1950.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,1960.0,5,2,-1,True,низкая уверенность
+synthetic_r6_g5,1970.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,1980.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,1990.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,2000.0,5,3,3,False,принято
+synthetic_r6_g5,2010.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2020.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2030.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2040.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2050.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2060.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2070.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2080.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2090.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2100.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2110.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,2120.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,2130.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2140.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2150.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,2160.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2170.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2180.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2190.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2200.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2210.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2220.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2230.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2240.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2250.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2260.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,2270.0,5,4,-1,True,низкая уверенность
+synthetic_r6_g5,2280.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2290.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2300.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,2310.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2320.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2330.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,2340.0,5,5,5,False,принято
+synthetic_r6_g5,2350.0,5,5,5,False,принято
+synthetic_r6_g5,2360.0,5,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,2370.0,5,2,2,False,принято
+synthetic_r6_g5,2380.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,2390.0,5,2,2,False,принято
+synthetic_r6_g5,2400.0,5,2,2,False,принято
+synthetic_r6_g5,2410.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2420.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2430.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2440.0,5,3,-1,True,ожидание подтверждения
+synthetic_r6_g5,2450.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2460.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2470.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2480.0,5,3,-1,True,низкая уверенность
+synthetic_r6_g5,2490.0,5,5,-1,True,ожидание подтверждения
+synthetic_r6_g5,2500.0,5,5,-1,True,низкая уверенность
+synthetic_r6_g5,2510.0,0,3,-1,True,низкая уверенность
+synthetic_r6_g5,2520.0,0,2,-1,True,ожидание подтверждения
+synthetic_r6_g5,2530.0,0,2,2,False,принято
+synthetic_r6_g5,2540.0,0,0,-1,True,ожидание подтверждения
+synthetic_r6_g5,2550.0,0,0,0,False,принято
+synthetic_r6_g5,2560.0,0,0,0,False,принято
+synthetic_r6_g5,2570.0,0,0,0,False,принято
+synthetic_r6_g5,2580.0,0,0,0,False,принято
+synthetic_r6_g5,2590.0,0,0,0,False,принято
+synthetic_r6_g5,2600.0,0,0,0,False,принято
+synthetic_r6_g5,2610.0,0,0,0,False,принято
+synthetic_r6_g5,2620.0,0,0,0,False,принято
+synthetic_r6_g5,2630.0,0,0,0,False,принято
+synthetic_r6_g5,2640.0,0,0,0,False,принято
+synthetic_r6_g5,2650.0,0,0,0,False,принято
+synthetic_r6_g5,2660.0,0,0,0,False,принято
+synthetic_r6_g5,2670.0,0,0,0,False,принято
+synthetic_r6_g5,2680.0,0,0,0,False,принято
+synthetic_r6_g5,2690.0,0,0,0,False,принято
+synthetic_r6_g5,2700.0,0,0,0,False,принято
+synthetic_r6_g5,2710.0,0,0,0,False,принято
+synthetic_r6_g5,2720.0,0,0,0,False,принято
+synthetic_r6_g5,2730.0,0,0,0,False,принято
+synthetic_r6_g5,2740.0,0,0,0,False,принято
+synthetic_r6_g5,2750.0,0,0,0,False,принято
+synthetic_r6_g5,2760.0,0,0,0,False,принято
+synthetic_r6_g5,2770.0,0,0,0,False,принято
+synthetic_r6_g5,2780.0,0,0,0,False,принято
+synthetic_r6_g5,2790.0,0,0,0,False,принято
+synthetic_r6_g5,2800.0,0,0,0,False,принято
+synthetic_r6_g5,2810.0,0,0,0,False,принято
+synthetic_r6_g5,2820.0,0,0,0,False,принято
+synthetic_r6_g5,2830.0,0,0,0,False,принято
+synthetic_r6_g5,2840.0,0,0,0,False,принято
+synthetic_r6_g5,2850.0,0,0,0,False,принято
+synthetic_r6_g5,2860.0,0,0,0,False,принято
+synthetic_r6_g5,2870.0,0,0,0,False,принято
+synthetic_r6_g5,2880.0,0,0,0,False,принято
+synthetic_r6_g5,2890.0,0,0,0,False,принято
+synthetic_r6_g5,2900.0,0,0,0,False,принято
+synthetic_r6_g5,2910.0,0,0,0,False,принято
+synthetic_r6_g5,2920.0,0,0,0,False,принято
+synthetic_r6_g5,2930.0,0,0,0,False,принято
+synthetic_r6_g5,2940.0,0,0,0,False,принято
+synthetic_r6_g5,2950.0,0,0,0,False,принято
+synthetic_r6_g5,2960.0,0,0,0,False,принято
+synthetic_r6_g5,2970.0,0,0,0,False,принято
+synthetic_r6_g5,2980.0,0,0,0,False,принято
+synthetic_r6_g5,2990.0,0,0,0,False,принято
+synthetic_r6_g5,3000.0,0,0,0,False,принято

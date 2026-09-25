@@ -1,0 +1,909 @@
+{
+  "source": "NinaPro DB2, один участник",
+  "file": "S1_E2_A1.mat",
+  "sha256": "c02ee3d88b58d6079abb7f84e791f151540acfec64b447a3cdad6589d53cac02",
+  "split": {
+    "train": [
+      1,
+      3,
+      4
+    ],
+    "validation": [
+      2
+    ],
+    "test": [
+      5,
+      6
+    ]
+  },
+  "window_ms": 50,
+  "step_ms": 10,
+  "class_mapping": {
+    "19": 1,
+    "32": 2,
+    "34": 3,
+    "20": 4,
+    "27": 5
+  },
+  "labels": [
+    "rest",
+    "cylindrical",
+    "pinch",
+    "lateral",
+    "hook",
+    "spherical"
+  ],
+  "channels_zero_based": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "platform": {
+    "system": "Darwin",
+    "machine": "arm64",
+    "python": "3.12.14"
+  },
+  "models": {
+    "LDA": {
+      "settings": {
+        "threshold": 0.7,
+        "confirmations": 1
+      },
+      "validation_candidates": [
+        {
+          "threshold": 0.0,
+          "confirmations": 1,
+          "loss": 0.4981042654028436,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 1.0,
+            "wrong_fraction_all": 0.4981042654028436,
+            "wrong_fraction_accepted": 0.4981042654028436,
+            "wrong_switches": 197,
+            "wrong_switches_per_minute": 560.1895734597156,
+            "response_median_ms": 70.0,
+            "response_p95_ms": 134.0,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.6
+          }
+        },
+        {
+          "threshold": 0.0,
+          "confirmations": 2,
+          "loss": 0.44597156398104265,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.8957345971563981,
+            "wrong_fraction_all": 0.4251184834123223,
+            "wrong_fraction_accepted": 0.4746031746031746,
+            "wrong_switches": 113,
+            "wrong_switches_per_minute": 321.3270142180095,
+            "response_median_ms": 140.0,
+            "response_p95_ms": 148.0,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.4
+          }
+        },
+        {
+          "threshold": 0.0,
+          "confirmations": 3,
+          "loss": 0.4151658767772512,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.8317535545023697,
+            "wrong_fraction_all": 0.3815165876777251,
+            "wrong_fraction_accepted": 0.4586894586894587,
+            "wrong_switches": 81,
+            "wrong_switches_per_minute": 230.33175355450237,
+            "response_median_ms": 150.0,
+            "response_p95_ms": 1143.9999999999998,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 1,
+          "loss": 0.29582938388625596,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.45023696682464454,
+            "wrong_fraction_all": 0.16587677725118483,
+            "wrong_fraction_accepted": 0.3684210526315789,
+            "wrong_switches": 22,
+            "wrong_switches_per_minute": 62.55924170616113,
+            "response_median_ms": 160.0,
+            "response_p95_ms": 177.0,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 2,
+          "loss": 0.26909952606635074,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.3706161137440758,
+            "wrong_fraction_all": 0.12322274881516587,
+            "wrong_fraction_accepted": 0.33248081841432225,
+            "wrong_switches": 19,
+            "wrong_switches_per_minute": 54.02843601895734,
+            "response_median_ms": 180.0,
+            "response_p95_ms": 190.0,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 3,
+          "loss": 0.2526066350710901,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.3132701421800948,
+            "wrong_fraction_all": 0.095260663507109,
+            "wrong_fraction_accepted": 0.3040847201210287,
+            "wrong_switches": 16,
+            "wrong_switches_per_minute": 45.49763033175355,
+            "response_median_ms": 190.0,
+            "response_p95_ms": 200.0,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 1,
+          "loss": 0.22028436018957345,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.07914691943127962,
+            "wrong_fraction_all": 0.016113744075829384,
+            "wrong_fraction_accepted": 0.20359281437125748,
+            "wrong_switches": 6,
+            "wrong_switches_per_minute": 17.061611374407583,
+            "response_median_ms": 485.0,
+            "response_p95_ms": 653.5,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 2,
+          "loss": 0.23838862559241708,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.05308056872037915,
+            "wrong_fraction_all": 0.00900473933649289,
+            "wrong_fraction_accepted": 0.16964285714285715,
+            "wrong_switches": 5,
+            "wrong_switches_per_minute": 14.218009478672984,
+            "response_median_ms": 450.0,
+            "response_p95_ms": 558.0,
+            "missed_movements": 2,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 3,
+          "loss": 0.23734597156398105,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.03696682464454976,
+            "wrong_fraction_all": 0.004739336492890996,
+            "wrong_fraction_accepted": 0.1282051282051282,
+            "wrong_switches": 3,
+            "wrong_switches_per_minute": 8.530805687203792,
+            "response_median_ms": 460.0,
+            "response_p95_ms": 568.0,
+            "missed_movements": 2,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 1,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 2,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 3,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 1,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 2,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 3,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5018957345971564,
+            "raw_macro_f1": 0.47645172912919326,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        }
+      ],
+      "test": {
+        "baseline": {
+          "frames": 4574,
+          "raw_accuracy": 0.48666375163970266,
+          "raw_macro_f1": 0.4320500629887305,
+          "accepted_fraction": 1.0,
+          "wrong_fraction_all": 0.5133362483602973,
+          "wrong_fraction_accepted": 0.5133362483602973,
+          "wrong_switches": 458,
+          "wrong_switches_per_minute": 600.7870572802799,
+          "response_median_ms": 220.0,
+          "response_p95_ms": 838.4999999999999,
+          "missed_movements": 0,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.3
+        },
+        "threshold_only": {
+          "frames": 4574,
+          "raw_accuracy": 0.48666375163970266,
+          "raw_macro_f1": 0.4320500629887305,
+          "accepted_fraction": 0.05115872321818977,
+          "wrong_fraction_all": 0.025142107564494972,
+          "wrong_fraction_accepted": 0.49145299145299143,
+          "wrong_switches": 12,
+          "wrong_switches_per_minute": 15.741145605596852,
+          "response_median_ms": 850.0,
+          "response_p95_ms": 2009.999999999999,
+          "missed_movements": 3,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.0
+        },
+        "confirmation_only": {
+          "frames": 4574,
+          "raw_accuracy": 0.48666375163970266,
+          "raw_macro_f1": 0.4320500629887305,
+          "accepted_fraction": 1.0,
+          "wrong_fraction_all": 0.5133362483602973,
+          "wrong_fraction_accepted": 0.5133362483602973,
+          "wrong_switches": 458,
+          "wrong_switches_per_minute": 600.7870572802799,
+          "response_median_ms": 220.0,
+          "response_p95_ms": 838.4999999999999,
+          "missed_movements": 0,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.3
+        },
+        "combined": {
+          "frames": 4574,
+          "raw_accuracy": 0.48666375163970266,
+          "raw_macro_f1": 0.4320500629887305,
+          "accepted_fraction": 0.05115872321818977,
+          "wrong_fraction_all": 0.025142107564494972,
+          "wrong_fraction_accepted": 0.49145299145299143,
+          "wrong_switches": 12,
+          "wrong_switches_per_minute": 15.741145605596852,
+          "response_median_ms": 850.0,
+          "response_p95_ms": 2009.999999999999,
+          "missed_movements": 3,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.0
+        }
+      },
+      "confusion_matrix": [
+        [
+          248,
+          0,
+          103,
+          584,
+          25,
+          0
+        ],
+        [
+          8,
+          170,
+          122,
+          27,
+          10,
+          53
+        ],
+        [
+          150,
+          0,
+          562,
+          65,
+          9,
+          61
+        ],
+        [
+          97,
+          0,
+          0,
+          908,
+          0,
+          27
+        ],
+        [
+          37,
+          120,
+          305,
+          128,
+          45,
+          4
+        ],
+        [
+          25,
+          28,
+          238,
+          104,
+          18,
+          293
+        ]
+      ],
+      "timing": {
+        "filter_p95_ms": 0.055983883794397116,
+        "features_p95_ms": 0.09634991874918344,
+        "model_p95_ms": 1.7635749536566439,
+        "decision_p95_ms": 0.011846376582980156,
+        "compute_total_p95_ms": 1.873034005984664,
+        "note": "Время вычислений на компьютере; без сбора окна, связи и привода"
+      }
+    },
+    "SVM": {
+      "settings": {
+        "threshold": 0.5,
+        "confirmations": 3
+      },
+      "validation_candidates": [
+        {
+          "threshold": 0.0,
+          "confirmations": 1,
+          "loss": 0.42938388625592416,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 1.0,
+            "wrong_fraction_all": 0.42938388625592416,
+            "wrong_fraction_accepted": 0.42938388625592416,
+            "wrong_switches": 263,
+            "wrong_switches_per_minute": 747.867298578199,
+            "response_median_ms": 90.0,
+            "response_p95_ms": 108.0,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.8
+          }
+        },
+        {
+          "threshold": 0.0,
+          "confirmations": 2,
+          "loss": 0.3636018957345971,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.8644549763033176,
+            "wrong_fraction_all": 0.33649289099526064,
+            "wrong_fraction_accepted": 0.3892543859649123,
+            "wrong_switches": 143,
+            "wrong_switches_per_minute": 406.63507109004735,
+            "response_median_ms": 100.0,
+            "response_p95_ms": 118.0,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.6
+          }
+        },
+        {
+          "threshold": 0.0,
+          "confirmations": 3,
+          "loss": 0.3293838862559242,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.7914691943127962,
+            "wrong_fraction_all": 0.2876777251184834,
+            "wrong_fraction_accepted": 0.36347305389221557,
+            "wrong_switches": 99,
+            "wrong_switches_per_minute": 281.51658767772506,
+            "response_median_ms": 120.0,
+            "response_p95_ms": 162.0,
+            "missed_movements": 0,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.4
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 1,
+          "loss": 0.2656872037914692,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.5274881516587677,
+            "wrong_fraction_all": 0.15118483412322276,
+            "wrong_fraction_accepted": 0.2866127583108715,
+            "wrong_switches": 60,
+            "wrong_switches_per_minute": 170.61611374407582,
+            "response_median_ms": 110.0,
+            "response_p95_ms": 160.99999999999997,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 2,
+          "loss": 0.23023696682464453,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.40616113744075827,
+            "wrong_fraction_all": 0.09146919431279621,
+            "wrong_fraction_accepted": 0.22520420070011668,
+            "wrong_switches": 32,
+            "wrong_switches_per_minute": 90.9952606635071,
+            "response_median_ms": 120.0,
+            "response_p95_ms": 170.99999999999997,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.5,
+          "confirmations": 3,
+          "loss": 0.21355450236966825,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.33317535545023697,
+            "wrong_fraction_all": 0.06018957345971564,
+            "wrong_fraction_accepted": 0.1806543385490754,
+            "wrong_switches": 24,
+            "wrong_switches_per_minute": 68.24644549763033,
+            "response_median_ms": 145.0,
+            "response_p95_ms": 185.5,
+            "missed_movements": 1,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.2
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 1,
+          "loss": 0.2390521327014218,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.016587677725118485,
+            "wrong_fraction_all": 0.002369668246445498,
+            "wrong_fraction_accepted": 0.14285714285714285,
+            "wrong_switches": 2,
+            "wrong_switches_per_minute": 5.6872037914691935,
+            "response_median_ms": 1630.0,
+            "response_p95_ms": 2053.0,
+            "missed_movements": 2,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 2,
+          "loss": 0.2794312796208531,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.005213270142180095,
+            "wrong_fraction_all": 0.00047393364928909954,
+            "wrong_fraction_accepted": 0.09090909090909091,
+            "wrong_switches": 1,
+            "wrong_switches_per_minute": 2.8436018957345968,
+            "response_median_ms": 2240.0,
+            "response_p95_ms": 2240.0,
+            "missed_movements": 4,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.7,
+          "confirmations": 3,
+          "loss": 0.27943127962085307,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.002843601895734597,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": 0.0,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": 2250.0,
+            "response_p95_ms": 2250.0,
+            "missed_movements": 4,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 1,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 2,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.85,
+          "confirmations": 3,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 1,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 2,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        },
+        {
+          "threshold": 0.95,
+          "confirmations": 3,
+          "loss": 0.30000000000000004,
+          "metrics": {
+            "frames": 2110,
+            "raw_accuracy": 0.5706161137440758,
+            "raw_macro_f1": 0.5364916740650815,
+            "accepted_fraction": 0.0,
+            "wrong_fraction_all": 0.0,
+            "wrong_fraction_accepted": null,
+            "wrong_switches": 0,
+            "wrong_switches_per_minute": 0.0,
+            "response_median_ms": null,
+            "response_p95_ms": null,
+            "missed_movements": 5,
+            "movements": 5,
+            "response_within_100ms_fraction": 0.0
+          }
+        }
+      ],
+      "test": {
+        "baseline": {
+          "frames": 4574,
+          "raw_accuracy": 0.5540008745080892,
+          "raw_macro_f1": 0.5003996468703741,
+          "accepted_fraction": 1.0,
+          "wrong_fraction_all": 0.4459991254919108,
+          "wrong_fraction_accepted": 0.4459991254919108,
+          "wrong_switches": 535,
+          "wrong_switches_per_minute": 701.7927415828597,
+          "response_median_ms": 175.0,
+          "response_p95_ms": 671.0,
+          "missed_movements": 0,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.4
+        },
+        "threshold_only": {
+          "frames": 4574,
+          "raw_accuracy": 0.5540008745080892,
+          "raw_macro_f1": 0.5003996468703741,
+          "accepted_fraction": 0.5288587669435942,
+          "wrong_fraction_all": 0.179930039352864,
+          "wrong_fraction_accepted": 0.34022323274080196,
+          "wrong_switches": 118,
+          "wrong_switches_per_minute": 154.78793178836904,
+          "response_median_ms": 135.0,
+          "response_p95_ms": 741.5,
+          "missed_movements": 2,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.4
+        },
+        "confirmation_only": {
+          "frames": 4574,
+          "raw_accuracy": 0.5540008745080892,
+          "raw_macro_f1": 0.5003996468703741,
+          "accepted_fraction": 0.8087013554875383,
+          "wrong_fraction_all": 0.32072584171403584,
+          "wrong_fraction_accepted": 0.39659367396593675,
+          "wrong_switches": 201,
+          "wrong_switches_per_minute": 263.6641888937473,
+          "response_median_ms": 210.0,
+          "response_p95_ms": 829.4999999999999,
+          "missed_movements": 0,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.4
+        },
+        "combined": {
+          "frames": 4574,
+          "raw_accuracy": 0.5540008745080892,
+          "raw_macro_f1": 0.5003996468703741,
+          "accepted_fraction": 0.33865325754263226,
+          "wrong_fraction_all": 0.08264101442938347,
+          "wrong_fraction_accepted": 0.24402840542285345,
+          "wrong_switches": 43,
+          "wrong_switches_per_minute": 56.40577175338872,
+          "response_median_ms": 225.0,
+          "response_p95_ms": 846.0,
+          "missed_movements": 2,
+          "movements": 10,
+          "response_within_100ms_fraction": 0.3
+        }
+      },
+      "confusion_matrix": [
+        [
+          434,
+          0,
+          106,
+          404,
+          15,
+          1
+        ],
+        [
+          7,
+          251,
+          62,
+          24,
+          10,
+          36
+        ],
+        [
+          167,
+          20,
+          576,
+          21,
+          9,
+          54
+        ],
+        [
+          151,
+          0,
+          3,
+          863,
+          10,
+          5
+        ],
+        [
+          84,
+          284,
+          122,
+          113,
+          32,
+          4
+        ],
+        [
+          73,
+          36,
+          165,
+          53,
+          1,
+          378
+        ]
+      ],
+      "timing": {
+        "filter_p95_ms": 0.06035889964550735,
+        "features_p95_ms": 0.10118739446625113,
+        "model_p95_ms": 2.8294623247347777,
+        "decision_p95_ms": 0.013554503675550222,
+        "compute_total_p95_ms": 2.982558181975037,
+        "note": "Время вычислений на компьютере; без сбора окна, связи и привода"
+      }
+    }
+  }
+}
