@@ -4,6 +4,9 @@ import argparse
 import csv
 import hashlib
 import json
+import platform
+import scipy
+import sklearn
 from pathlib import Path
 
 import numpy as np
@@ -103,7 +106,10 @@ def tune(data, output):
 def test(data, output, config_path):
     frozen = json.loads(config_path.read_text())
     trials = load_db2(data)
-    report = {'file': data.name, 'sha256': hashlib.sha256(data.read_bytes()).hexdigest(),
+    report = {'environment': {'python': platform.python_version(), 'system': platform.system(),
+                              'machine': platform.machine(), 'numpy': np.__version__,
+                              'scipy': scipy.__version__, 'sklearn': sklearn.__version__},
+              'file': data.name, 'sha256': hashlib.sha256(data.read_bytes()).hexdigest(),
               'config_sha256': hashlib.sha256(config_path.read_bytes()).hexdigest(),
               'split': SPLIT, 'models': {}}
     output.mkdir(parents=True, exist_ok=True)

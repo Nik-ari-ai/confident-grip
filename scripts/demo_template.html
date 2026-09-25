@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ru">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Уверенный хват — просмотр эксперимента</title>
+<style>
+* {box-sizing:border-box} body {font:17px/1.5 Arial,sans-serif;color:#202722;background:#f5f7f3;margin:0;padding:28px} main{max-width:1100px;margin:auto} h1{margin:0;color:#28533a;font-size:32px} p{margin:12px 0} .hint{color:#59615b;font-size:15px} .controls{display:flex;flex-wrap:wrap;gap:18px;align-items:end;margin:22px 0} label{display:block} select,button{font:inherit;padding:8px 12px;border:1px solid #86998a;border-radius:4px;background:white;color:#202722} button{cursor:pointer} button:focus-visible,select:focus-visible,input:focus-visible{outline:3px solid #397cb0} .result{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;background:white;padding:18px;border:1px solid #d1dbd0} .result strong{display:block;font-size:24px} canvas{display:block;width:100%;height:310px;background:white;border:1px solid #d1dbd0;margin-top:20px} input[type=range]{width:100%;margin:20px 0} .legend{display:flex;flex-wrap:wrap;gap:24px;font-size:15px} .legend span:before{content:'━';margin-right:8px}.truth{color:#276d44}.raw{color:#b07432}.command{color:#285f9e} #reason{min-height:26px} footer{margin:28px 0;color:#59615b;font-size:14px} a{color:#285f9e}@media(max-width:700px){body{padding:16px}.result{grid-template-columns:1fr;gap:8px}.result strong{font-size:20px} canvas{height:280px}h1{font-size:27px}}
+</style>
+<main>
+<h1>Уверенный хват</h1>
+<p>Покадровый разбор решений на двух новых участниках NinaPro DB2.</p>
+<p class="hint">Здесь воспроизводятся сохранённые результаты. Модель в браузере не обучается; настоящая кисть не подключена.</p>
+<div class="controls">
+<label>Участник и модель<br><select id="run" aria-label="Участник и модель"></select></label>
+<label>Тестовый фрагмент<br><select id="trial" aria-label="Тестовый фрагмент"></select></label>
+<button id="play" type="button">Воспроизвести</button>
+<button id="start" type="button">В начало</button>
+</div>
+<div class="result">
+<div>Метка записи<strong id="truth"></strong></div>
+<div>Ответ модели<strong id="raw"></strong></div>
+<div>После проверки<strong id="command"></strong></div>
+</div>
+<p id="reason"></p>
+<canvas id="plot" aria-label="Метка, ответ модели и команда во времени"></canvas>
+<div class="legend"><span class="truth">Метка записи</span><span class="raw">Ответ модели</span><span class="command">Команда после проверки</span></div>
+<label for="position">Время: <output id="time"></output></label>
+<input id="position" type="range" min="0" value="0" step="1">
+<p id="summary"></p>
+<p class="hint">Ошибки и доля принятых указаны для всех десяти тестовых движений выбранной модели. Отказ — запрет движения, покой — отдельный класс. Метка записи не равна точному физиологическому началу сокращения. Тест включает переходы.</p>
+<footer>Исходные таблицы: results/study. <a href="https://github.com/Nik-ari-ai/confident-grip">Код и протокол</a>. Ни одна из моделей пока не выполнила все исследовательские ориентиры качества и задержки.</footer>
+</main>
+<script>
+const data = /* DATA */ {};
+const names=['Покой','Цилиндрический','Точный','Боковой','Крюк','Сферический'];
+const el=id=>document.getElementById(id);
+const label=n=>n<0?'Отказ':names[n];
+const percent=n=>(100*n).toFixed(1).replace('.',',')+'%';
+let rows=[],timer=null;
+for(const key of Object.keys(data)) el('run').add(new Option(key,key));
+el('run').value='S2 / SVM';
+function pause(){clearInterval(timer);timer=null;el('play').textContent='Воспроизвести'}
+function chooseRun(){
+ pause();const run=data[el('run').value];el('trial').replaceChildren();
+ for(const key of Object.keys(run.trials))el('trial').add(new Option(key,key));
+ const m=run.metrics;
+ el('summary').textContent=`Весь тест: принято ${percent(m.accepted_fraction)} окон; ошибок среди принятых ${percent(m.wrong_fraction_accepted)}; первая правильная команда за 100 мс — ${Math.round(10*m.response_within_100ms_fraction)} из 10 движений.`;
+ chooseTrial();
+}
+function chooseTrial(){pause();rows=data[el('run').value].trials[el('trial').value];el('position').max=rows.length-1;el('position').value=0;draw()}
+function draw(){
+ const index=Number(el('position').value),row=rows[index];
+ el('truth').textContent=label(row[1]);el('raw').textContent=label(row[2]);el('command').textContent=label(row[3]);
+ el('reason').textContent='Решение: '+row[4]+(row[3]<0?' — движение запрещено.':'.');
+ el('time').textContent=(row[0]/1000).toFixed(2)+' с от начала фрагмента';
+ const canvas=el('plot'),w=canvas.clientWidth,h=canvas.clientHeight,dpr=window.devicePixelRatio||1;
+ canvas.width=w*dpr;canvas.height=h*dpr;const c=canvas.getContext('2d');c.scale(dpr,dpr);
+ const left=w<650?94:120,right=22,top=22,bottom=38;
+ const x=t=>left+(t-rows[0][0])/(rows.at(-1)[0]-rows[0][0])*(w-left-right);
+ const y=n=>top+(5-n)/6*(h-top-bottom);
+ c.font='12px Arial';c.textBaseline='middle';c.lineWidth=1;
+ for(let n=-1;n<=5;n++){
+  c.fillStyle='#59615b';c.textAlign='right';c.fillText(label(n),left-10,y(n));
+  c.strokeStyle='#e4e9e2';c.beginPath();c.moveTo(left,y(n));c.lineTo(w-right,y(n));c.stroke();
+ }
+ for(const [field,color,offset] of [[1,'#276d44',-3],[2,'#b07432',0],[3,'#285f9e',3]]){
+  c.strokeStyle=color;c.lineWidth=1.8;c.beginPath();
+  rows.forEach((r,i)=>{if(i===0)c.moveTo(x(r[0]),y(r[field])+offset);else{c.lineTo(x(r[0]),y(rows[i-1][field])+offset);c.lineTo(x(r[0]),y(r[field])+offset)}});c.stroke();
+ }
+ c.strokeStyle='#2d3530';c.lineWidth=1;c.beginPath();c.moveTo(x(row[0]),top-9);c.lineTo(x(row[0]),h-bottom+5);c.stroke();
+ c.fillStyle='#59615b';c.textAlign='left';c.fillText((rows[0][0]/1000).toFixed(2)+' с',left,h-15);c.textAlign='right';c.fillText((rows.at(-1)[0]/1000).toFixed(2)+' с',w-right,h-15);
+}
+el('run').addEventListener('change',chooseRun);el('trial').addEventListener('change',chooseTrial);
+el('position').addEventListener('input',()=>{pause();draw()});
+el('start').addEventListener('click',()=>{pause();el('position').value=0;draw()});
+el('play').addEventListener('click',()=>{
+ if(timer){pause();return}if(Number(el('position').value)>=rows.length-1)el('position').value=0;
+ el('play').textContent='Пауза';timer=setInterval(()=>{const i=Number(el('position').value);if(i>=rows.length-1){pause();return}el('position').value=i+1;draw()},10);
+});
+window.addEventListener('resize',draw);chooseRun();
+</script>
+</html>

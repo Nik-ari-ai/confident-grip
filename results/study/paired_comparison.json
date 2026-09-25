@@ -1,0 +1,12 @@
+{
+  "s2": {
+    "matched_frames": 5518,
+    "old_raw_accuracy": 0.6170714026821312,
+    "new_raw_accuracy": 0.6524102935846321
+  },
+  "s3": {
+    "matched_frames": 7379,
+    "old_raw_accuracy": 0.5202601978587884,
+    "new_raw_accuracy": 0.5771784794687627
+  }
+}
