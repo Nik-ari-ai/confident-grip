@@ -50,14 +50,16 @@ def predict(model, prepared, quality_limit):
     return result
 
 
-def evaluate(predictions, threshold=0., confirmations=1):
+def evaluate(predictions, threshold=0., confirmations=1, margin=0.):
     truth, raw, commands, rows = [], [], [], []
     wrong_switches = 0
     duration = 0.
     response = []
     missed = 0
+    stable_response = []
+    stable_missed = 0
     for p in predictions:
-        control = GripControl(range(6), rest=0, threshold=threshold, margin=0,
+        control = GripControl(range(6), rest=0, threshold=threshold, margin=margin,
                               confirmations=confirmations, max_gap_ms=30)
         previous = 0
         accepted = []
@@ -81,6 +83,23 @@ def evaluate(predictions, threshold=0., confirmations=1):
             response.append(float(matches[0] - onset_ms))
         else:
             missed += 1
+        # Решение считается устойчивым после 100 мс подряд правильных команд.
+        # Время ставим в конце подтверждённого участка, без заглядывания вперёд.
+        run_start = None
+        stable = None
+        for t, command in zip(p["time_ms"], accepted):
+            if onset_ms <= t < stop_ms and command == target:
+                if run_start is None:
+                    run_start = t
+                if t - run_start >= 100:
+                    stable = float(t - onset_ms)
+                    break
+            else:
+                run_start = None
+        if stable is None:
+            stable_missed += 1
+        else:
+            stable_response.append(stable)
         duration += (p["time_ms"][-1] - p["time_ms"][0] + 10) / 1000
         truth.extend(p["labels"].tolist())
         raw.extend(np.argmax(p["scores"], axis=1).tolist())
@@ -98,6 +117,9 @@ def evaluate(predictions, threshold=0., confirmations=1):
         "wrong_switches_per_minute": float(wrong_switches / duration * 60),
         "response_median_ms": float(np.median(response)) if response else None,
         "response_p95_ms": float(np.quantile(response, .95)) if response else None,
+        "stable_response_median_ms": float(np.median(stable_response)) if stable_response else None,
+        "stable_response_p95_ms": float(np.quantile(stable_response, .95)) if stable_response else None,
+        "stable_missed_movements": stable_missed,
         "missed_movements": missed, "movements": len(predictions),
         "response_within_100ms_fraction": float(sum(t <= 100 for t in response) / len(predictions)),
     }
@@ -118,12 +140,12 @@ def choose_settings(validation):
     return {k: best[k] for k in ("threshold", "confirmations")}, candidates
 
 
-def benchmark(model, trial, settings, quality_limit):
+def benchmark(model, trial, settings, quality_limit, window_ms=50):
     filt = SignalFilter(trial.fs, trial.signal.shape[1])
-    width, step = 100, 20
+    width, step = round(trial.fs * window_ms / 1000), round(trial.fs * .01)
     ring = np.zeros((width, trial.signal.shape[1]))
     raw_ring = np.zeros_like(ring)
-    control = GripControl(range(6), rest=0, margin=0, **settings)
+    control = GripControl(range(6), rest=0, **({"margin": 0} | settings))
     times = []
     for index, start in enumerate(range(0, min(len(trial.signal)-step, 6000), step)):
         t0 = perf_counter()

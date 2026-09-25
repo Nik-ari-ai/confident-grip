@@ -1,0 +1,626 @@
+[
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.490521327014218,
+      "raw_macro_f1": 0.46805735889839467,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.509478672985782,
+      "wrong_fraction_accepted": 0.509478672985782,
+      "wrong_switches": 208,
+      "wrong_switches_per_minute": 591.4691943127962,
+      "response_median_ms": 70.0,
+      "response_p95_ms": 130.0,
+      "stable_response_median_ms": 285.0,
+      "stable_response_p95_ms": 509.99999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.6
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.5876777251184834,
+      "raw_macro_f1": 0.5429067618875644,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.41232227488151657,
+      "wrong_fraction_accepted": 0.41232227488151657,
+      "wrong_switches": 206,
+      "wrong_switches_per_minute": 585.781990521327,
+      "response_median_ms": 90.0,
+      "response_p95_ms": 997.9999999999998,
+      "stable_response_median_ms": 245.0,
+      "stable_response_p95_ms": 354.99999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.6
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.5890995260663507,
+      "raw_macro_f1": 0.5398287601025616,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.4109004739336493,
+      "wrong_fraction_accepted": 0.4109004739336493,
+      "wrong_switches": 247,
+      "wrong_switches_per_minute": 702.3696682464455,
+      "response_median_ms": 40.0,
+      "response_p95_ms": 105.49999999999999,
+      "stable_response_median_ms": 205.0,
+      "stable_response_p95_ms": 261.0,
+      "stable_missed_movements": 1,
+      "missed_movements": 1,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.6
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "log_td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.4777251184834123,
+      "raw_macro_f1": 0.43491760685305625,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.5222748815165876,
+      "wrong_fraction_accepted": 0.5222748815165876,
+      "wrong_switches": 197,
+      "wrong_switches_per_minute": 560.1895734597156,
+      "response_median_ms": 100.0,
+      "response_p95_ms": 150.0,
+      "stable_response_median_ms": 295.0,
+      "stable_response_p95_ms": 474.99999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.6
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "log_td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.6118483412322275,
+      "raw_macro_f1": 0.5541412319872508,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3881516587677725,
+      "wrong_fraction_accepted": 0.3881516587677725,
+      "wrong_switches": 193,
+      "wrong_switches_per_minute": 548.8151658767772,
+      "response_median_ms": 85.0,
+      "response_p95_ms": 98.5,
+      "stable_response_median_ms": 195.0,
+      "stable_response_p95_ms": 259.5,
+      "stable_missed_movements": 1,
+      "missed_movements": 1,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.8
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "log_td",
+      "window_ms": 50
+    },
+    "metrics": {
+      "frames": 2110,
+      "raw_accuracy": 0.6080568720379147,
+      "raw_macro_f1": 0.5528266330478023,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3919431279620853,
+      "wrong_fraction_accepted": 0.3919431279620853,
+      "wrong_switches": 238,
+      "wrong_switches_per_minute": 676.7772511848341,
+      "response_median_ms": 80.0,
+      "response_p95_ms": 2047.9999999999995,
+      "stable_response_median_ms": 180.0,
+      "stable_response_p95_ms": 256.49999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.8
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.5109732824427481,
+      "raw_macro_f1": 0.5017031511073197,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.4890267175572519,
+      "wrong_fraction_accepted": 0.4890267175572519,
+      "wrong_switches": 155,
+      "wrong_switches_per_minute": 443.7022900763358,
+      "response_median_ms": 135.0,
+      "response_p95_ms": 151.0,
+      "stable_response_median_ms": 325.0,
+      "stable_response_p95_ms": 553.4999999999999,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.6030534351145038,
+      "raw_macro_f1": 0.5567646743483422,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3969465648854962,
+      "wrong_fraction_accepted": 0.3969465648854962,
+      "wrong_switches": 178,
+      "wrong_switches_per_minute": 509.54198473282446,
+      "response_median_ms": 125.0,
+      "response_p95_ms": 2358.9999999999995,
+      "stable_response_median_ms": 245.0,
+      "stable_response_p95_ms": 385.49999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.2
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.5997137404580153,
+      "raw_macro_f1": 0.5486106653330317,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.4002862595419847,
+      "wrong_fraction_accepted": 0.4002862595419847,
+      "wrong_switches": 219,
+      "wrong_switches_per_minute": 626.9083969465648,
+      "response_median_ms": 105.0,
+      "response_p95_ms": 2384.9999999999995,
+      "stable_response_median_ms": 215.0,
+      "stable_response_p95_ms": 267.5,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "log_td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.49666030534351147,
+      "raw_macro_f1": 0.46885253464797877,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.5033396946564885,
+      "wrong_fraction_accepted": 0.5033396946564885,
+      "wrong_switches": 184,
+      "wrong_switches_per_minute": 526.7175572519084,
+      "response_median_ms": 85.0,
+      "response_p95_ms": 167.0,
+      "stable_response_median_ms": 385.0,
+      "stable_response_p95_ms": 2148.9999999999995,
+      "stable_missed_movements": 0,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.6
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "log_td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.6221374045801527,
+      "raw_macro_f1": 0.5667125203024868,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.37786259541984735,
+      "wrong_fraction_accepted": 0.37786259541984735,
+      "wrong_switches": 138,
+      "wrong_switches_per_minute": 395.0381679389313,
+      "response_median_ms": 105.0,
+      "response_p95_ms": 2062.9999999999995,
+      "stable_response_median_ms": 195.0,
+      "stable_response_p95_ms": 264.5,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "log_td",
+      "window_ms": 75
+    },
+    "metrics": {
+      "frames": 2096,
+      "raw_accuracy": 0.6254770992366412,
+      "raw_macro_f1": 0.5657898422204786,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.37452290076335876,
+      "wrong_fraction_accepted": 0.37452290076335876,
+      "wrong_switches": 152,
+      "wrong_switches_per_minute": 435.1145038167939,
+      "response_median_ms": 105.0,
+      "response_p95_ms": 2056.9999999999995,
+      "stable_response_median_ms": 185.0,
+      "stable_response_p95_ms": 273.0,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.524220623501199,
+      "raw_macro_f1": 0.5160334417341353,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.475779376498801,
+      "wrong_fraction_accepted": 0.475779376498801,
+      "wrong_switches": 115,
+      "wrong_switches_per_minute": 330.9352517985611,
+      "response_median_ms": 130.0,
+      "response_p95_ms": 150.0,
+      "stable_response_median_ms": 320.0,
+      "stable_response_p95_ms": 585.4999999999999,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.6095923261390888,
+      "raw_macro_f1": 0.5644675633054073,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3904076738609113,
+      "wrong_fraction_accepted": 0.3904076738609113,
+      "wrong_switches": 162,
+      "wrong_switches_per_minute": 466.1870503597122,
+      "response_median_ms": 130.0,
+      "response_p95_ms": 2379.9999999999995,
+      "stable_response_median_ms": 235.0,
+      "stable_response_p95_ms": 274.0,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.6177458033573141,
+      "raw_macro_f1": 0.5684606688298106,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.38225419664268584,
+      "wrong_fraction_accepted": 0.38225419664268584,
+      "wrong_switches": 168,
+      "wrong_switches_per_minute": 483.4532374100719,
+      "response_median_ms": 120.0,
+      "response_p95_ms": 2415.9999999999995,
+      "stable_response_median_ms": 260.0,
+      "stable_response_p95_ms": 444.49999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "log_td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.5189448441247002,
+      "raw_macro_f1": 0.49407197108263184,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.48105515587529973,
+      "wrong_fraction_accepted": 0.48105515587529973,
+      "wrong_switches": 148,
+      "wrong_switches_per_minute": 425.89928057553954,
+      "response_median_ms": 110.0,
+      "response_p95_ms": 174.0,
+      "stable_response_median_ms": 280.0,
+      "stable_response_p95_ms": 2049.9999999999995,
+      "stable_missed_movements": 0,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "log_td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.6446043165467625,
+      "raw_macro_f1": 0.5928991071670274,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3553956834532374,
+      "wrong_fraction_accepted": 0.3553956834532374,
+      "wrong_switches": 112,
+      "wrong_switches_per_minute": 322.3021582733813,
+      "response_median_ms": 110.0,
+      "response_p95_ms": 1557.9999999999998,
+      "stable_response_median_ms": 195.0,
+      "stable_response_p95_ms": 396.99999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "log_td",
+      "window_ms": 100
+    },
+    "metrics": {
+      "frames": 2085,
+      "raw_accuracy": 0.6441247002398082,
+      "raw_macro_f1": 0.6074979001866257,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.35587529976019183,
+      "wrong_fraction_accepted": 0.35587529976019183,
+      "wrong_switches": 142,
+      "wrong_switches_per_minute": 408.63309352517985,
+      "response_median_ms": 120.0,
+      "response_p95_ms": 1511.9999999999998,
+      "stable_response_median_ms": 220.0,
+      "stable_response_p95_ms": 2261.9999999999995,
+      "stable_missed_movements": 0,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.5388349514563107,
+      "raw_macro_f1": 0.5312206973864784,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.46116504854368934,
+      "wrong_fraction_accepted": 0.46116504854368934,
+      "wrong_switches": 96,
+      "wrong_switches_per_minute": 279.6116504854369,
+      "response_median_ms": 170.0,
+      "response_p95_ms": 178.0,
+      "stable_response_median_ms": 390.0,
+      "stable_response_p95_ms": 2091.9999999999995,
+      "stable_missed_movements": 0,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.6257281553398059,
+      "raw_macro_f1": 0.5841786097088361,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3742718446601942,
+      "wrong_fraction_accepted": 0.3742718446601942,
+      "wrong_switches": 120,
+      "wrong_switches_per_minute": 349.51456310679606,
+      "response_median_ms": 160.0,
+      "response_p95_ms": 1083.9999999999998,
+      "stable_response_median_ms": 270.0,
+      "stable_response_p95_ms": 280.0,
+      "stable_missed_movements": 1,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.2
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.6218446601941747,
+      "raw_macro_f1": 0.5743996058050594,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3781553398058252,
+      "wrong_fraction_accepted": 0.3781553398058252,
+      "wrong_switches": 162,
+      "wrong_switches_per_minute": 471.8446601941747,
+      "response_median_ms": 110.0,
+      "response_p95_ms": 192.49999999999997,
+      "stable_response_median_ms": 235.0,
+      "stable_response_p95_ms": 292.5,
+      "stable_missed_movements": 1,
+      "missed_movements": 1,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "LDA",
+      "C": null,
+      "features": "log_td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.5373786407766991,
+      "raw_macro_f1": 0.5194091563989809,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.462621359223301,
+      "wrong_fraction_accepted": 0.462621359223301,
+      "wrong_switches": 132,
+      "wrong_switches_per_minute": 384.4660194174757,
+      "response_median_ms": 130.0,
+      "response_p95_ms": 178.0,
+      "stable_response_median_ms": 280.0,
+      "stable_response_p95_ms": 2045.9999999999995,
+      "stable_missed_movements": 0,
+      "missed_movements": 0,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 1,
+      "features": "log_td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.6553398058252428,
+      "raw_macro_f1": 0.599782036109108,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3446601941747573,
+      "wrong_fraction_accepted": 0.3446601941747573,
+      "wrong_switches": 104,
+      "wrong_switches_per_minute": 302.9126213592233,
+      "response_median_ms": 115.0,
+      "response_p95_ms": 182.49999999999997,
+      "stable_response_median_ms": 215.0,
+      "stable_response_p95_ms": 324.99999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 1,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  },
+  {
+    "config": {
+      "model": "SVM",
+      "C": 10,
+      "features": "log_td",
+      "window_ms": 150
+    },
+    "metrics": {
+      "frames": 2060,
+      "raw_accuracy": 0.6611650485436893,
+      "raw_macro_f1": 0.6018779408431131,
+      "accepted_fraction": 1.0,
+      "wrong_fraction_all": 0.3388349514563107,
+      "wrong_fraction_accepted": 0.3388349514563107,
+      "wrong_switches": 89,
+      "wrong_switches_per_minute": 259.22330097087377,
+      "response_median_ms": 120.0,
+      "response_p95_ms": 199.49999999999997,
+      "stable_response_median_ms": 220.0,
+      "stable_response_p95_ms": 333.49999999999994,
+      "stable_missed_movements": 1,
+      "missed_movements": 1,
+      "movements": 5,
+      "response_within_100ms_fraction": 0.4
+    }
+  }
+]
