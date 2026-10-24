@@ -56,3 +56,44 @@ class ControlTests(unittest.TestCase):
 
 if __name__ == "__main__":
     unittest.main()
+
+
+class ConsecutiveConfirmationTests(unittest.TestCase):
+    """Смена хвата допускается только после N одинаковых ответов подряд."""
+
+    LABELS = ["rest", "A", "B"]
+
+    @staticmethod
+    def onehot(i):
+        return [1.0 if j == i else 0.0 for j in range(3)]
+
+    def run_sequence(self, seq, confirmations):
+        control = GripControl(self.LABELS, threshold=0, margin=0,
+                              confirmations=confirmations)
+        return [control.update(self.onehot(i), (t + 1) * 10).command
+                for t, i in enumerate(seq)]
+
+    def test_review_sequence_a_a_b_a_b(self):
+        # Промежуточный A прерывает подтверждение B.
+        commands = self.run_sequence([1, 1, 2, 1, 2], confirmations=2)
+        self.assertEqual(commands, [None, "A", None, "A", None])
+
+    def test_exhaustive_short_sequences(self):
+        import itertools
+        for confirmations in (2, 3):
+            for length in range(1, 9):
+                for seq in itertools.product([0, 1, 2], repeat=length):
+                    commands = self.run_sequence(seq, confirmations)
+                    selected = "rest"
+                    for t, command in enumerate(commands):
+                        if command is not None and command != selected:
+                            label = self.LABELS[seq[t]]
+                            self.assertEqual(command, label)
+                            window = seq[max(0, t - confirmations + 1):t + 1]
+                            self.assertEqual(
+                                len(window), confirmations, (seq, t))
+                            self.assertTrue(
+                                all(self.LABELS[i] == label for i in window),
+                                (confirmations, seq, t, commands))
+                        if command is not None:
+                            selected = command

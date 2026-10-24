@@ -75,6 +75,10 @@ class GripControl:
 
         # После отказа повторно подтверждаем даже прежний хват.
         if label == self.selected and not self.blocked:
+            # Подтверждение другого хвата должно идти подряд: ответ прежнего
+            # хвата прерывает накопление и сбрасывает счётчик.
+            self.pending = None
+            self.count = 0
             return Decision(label, False, "принято", score)
         if label == self.pending:
             self.count += 1
