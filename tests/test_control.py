@@ -54,10 +54,6 @@ class ControlTests(unittest.TestCase):
         self.assertEqual(self.control.update([0.02, 0.02, 0.96], 10).command, "hook")
 
 
-if __name__ == "__main__":
-    unittest.main()
-
-
 class ConsecutiveConfirmationTests(unittest.TestCase):
     """Смена хвата допускается только после N одинаковых ответов подряд."""
 
@@ -97,3 +93,7 @@ class ConsecutiveConfirmationTests(unittest.TestCase):
                                 (confirmations, seq, t, commands))
                         if command is not None:
                             selected = command
+
+
+if __name__ == "__main__":
+    unittest.main()
